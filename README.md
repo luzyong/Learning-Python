@@ -9,20 +9,20 @@ Documentando el proceso de preparación para la certificación PCPP1 y para prop
 
 ### 🟢 Part I. Getting Started
 
-- [X] **Chapter 1. A Python Q&A Session**
-- [X] **Chapter 2. How Python Runs Programs**
-- [X] **Chapter 3. How You Run Programs**
+- [✅] **Chapter 1. A Python Q&A Session**
+- [✅] **Chapter 2. How Python Runs Programs**
+- [✅] **Chapter 3. How You Run Programs**
 
 ---
 
 ### 🟢 Part II. Types and Operations
 
-- [X] **Chapter 4. Introducing Python Object Types**
-- [X] **Chapter 5. Numeric Types**
-- [X] **Chapter 6. The Dynamic Typing Interlude**
-- [X] **Chapter 7. Strings**
-- [X] **Chapter 8. Lists and Dictionaries**
-- [X] **Chapter 9. Tuples, Files, and Everything Else**
+- [✅] **Chapter 4. Introducing Python Object Types**
+- [✅] **Chapter 5. Numeric Types**
+- [✅] **Chapter 6. The Dynamic Typing Interlude**
+- [✅] **Chapter 7. Strings**
+- [✅] **Chapter 8. Lists and Dictionaries**
+- [✅] **Chapter 9. Tuples, Files, and Everything Else**
 
 > 🔍 Enfoque especial: mutabilidad, referencias, modelo de objetos
 
