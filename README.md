@@ -30,7 +30,7 @@ Documentando el proceso de preparación para la certificación PCPP1 y para prop
 
 ### 🟢 Part III. Statements and Syntax
 
-- [ ] **Chapter 10. Introducing Python Statements**
+- ✅ **Chapter 10. Introducing Python Statements**
 - [ ] **Chapter 11. Assignments, Expressions, and Prints**
 - [ ] **Chapter 12. If Tests and Syntax Rules**
 - [ ] **Chapter 13. while and for Loops**
