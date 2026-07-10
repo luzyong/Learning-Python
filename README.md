@@ -17,6 +17,10 @@ La presentación del curso, que contiene el desarrollo completo de todos los tem
 
 [**📊 Presentación del curso - Google Slides**](https://docs.google.com/presentation/d/1jls9ETOdV9rlJOdPDa_RdPYHehHRZGObNcibX7yRW9s/edit?usp=sharing)
 
+📹 **Video demostrativo:**[Ver tutorial en YouTube](https://youtu.be/jTLz_alafYo?si=9T-OfsxUH8fdOaPZ)
+
+[** Otros Materiales**](https://drive.google.com/file/d/1vEJOCSc1-9L9_fLaB5CPAtaSuWtU_sDQ/view?usp=sharing)
+
 > **Nota:** La presentación se encuentra en constante actualización y desarrollo.
 
 ---
