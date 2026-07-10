@@ -1,0 +1,6 @@
+plata, 1.6
+cobre, 1.7
+aluminio, 2.8
+Tumgstenio, 5.5
+Hierro, 10
+Plomo, 22
