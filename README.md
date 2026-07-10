@@ -1,6 +1,5 @@
 # Curso Integral de Python: De PCEP a PCPP
 
-## Domina Python desde los fundamentos hasta el desarrollo profesional
 
 ---
 
