@@ -1,95 +1,101 @@
-# 📘 Learning Python – Study Log
+# Curso Integral de Python: De PCEP a PCPP
 
-Documentando el proceso de preparación para la certificación PCPP1 y para propósitos de enseñanza.
-**Learning Python – Mark Lutz**.
-
-
-
-## 📂 Estructura del libro y progreso
-
-### 🟢 Part I. Getting Started
-
-- ✅ **Chapter 1. A Python Q&A Session**
-- ✅ **Chapter 2. How Python Runs Programs**
-- ✅ **Chapter 3. How You Run Programs**
+## Domina Python desde los fundamentos hasta el desarrollo profesional
 
 ---
 
-### 🟢 Part II. Types and Operations
+## Propósito del curso
 
-- ✅ **Chapter 4. Introducing Python Object Types**
-- ✅ **Chapter 5. Numeric Types**
-- ✅ **Chapter 6. The Dynamic Typing Interlude**
-- ✅ **Chapter 7. Strings**
-- ✅ **Chapter 8. Lists and Dictionaries**
-- ✅ **Chapter 9. Tuples, Files, and Everything Else**
+Este curso está diseñado para proporcionar una formación completa y estructurada en el lenguaje de programación Python, cubriendo desde los conceptos fundamentales hasta técnicas avanzadas de desarrollo. El objetivo principal es guiar al estudiante a través de un recorrido progresivo que abarca la sintaxis básica, estructuras de control, programación orientada a objetos, manejo de archivos y bases de datos, desarrollo de interfaces gráficas, y buenas prácticas de programación según los estándares PEP.
 
-> 🔍 Enfoque especial: mutabilidad, referencias, modelo de objetos
+Dirigido a programadores de todos los niveles, desde principiantes que desean iniciar su carrera en Python hasta desarrolladores experimentados que buscan profundizar en aspectos avanzados del lenguaje y prepararse para las certificaciones oficiales PCEP, PCAP y PCPP de Python Institute.
 
 ---
 
-### 🟢 Part III. Statements and Syntax
+## Material del curso
 
-- ✅ **Chapter 10. Introducing Python Statements**
-- ✅ **Chapter 11. Assignments, Expressions, and Prints**
-- ✅ **Chapter 12. If Tests and Syntax Rules**
-- ✅ **Chapter 13. while and for Loops**
-- ✅ **Chapter 14. Iterations and Comprehensions, Part 1**
-- ✅ **Chapter 15. The Documentation Interlude**
+La presentación del curso, que contiene el desarrollo completo de todos los temas, está disponible en el siguiente enlace:
 
----
+[**📊 Presentación del curso - Google Slides**](https://docs.google.com/presentation/d/1jls9ETOdV9rlJOdPDa_RdPYHehHRZGObNcibX7yRW9s/edit?usp=sharing)
 
-### 🟢 Part IV. Functions
-
-- [ ] **Chapter 16. Function Basics**
-- [ ] **Chapter 17. Scopes**
-- [ ] **Chapter 18. Arguments**
-- [ ] **Chapter 19. Advanced Function Topics**
-- [ ] **Chapter 20. Iterations and Comprehensions, Part 2**
-
-> 🔍 Enfoque especial: scopes, argumentos, diseño de funciones
+> **Nota:** La presentación se encuentra en constante actualización y desarrollo.
 
 ---
 
-### 🟢 Part V. Modules
+## Temario general
 
-- [ ] **Chapter 21. Modules: The Big Picture**
-- [ ] **Chapter 22. Module Coding Basics**
-- [ ] **Chapter 23. Module Packages**
-- [ ] **Chapter 24. Advanced Module Topics**
+### 1. Fundamentos y Lógica de Programación
+- **Introducción al lenguaje**: Intérpretes vs. compiladores, léxico, sintaxis y semántica
+- **Estructura del código**: Palabras reservadas, instrucciones, comentarios e indentación
+- **Literales y variables**:
+  - Tipos: booleanos, enteros, flotantes (notación científica) y cadenas
+  - Sistemas numéricos: binario, octal, decimal y hexadecimal
+  - Convenciones de nombres y estándar PEP-8
+- **Operadores y casting**:
+  - Aritméticos, lógicos (not, and, or), relacionales y a nivel de bits (bitwise)
+  - Prioridades y enlace (binding)
+  - Conversión de tipos (casting)
+- **Entrada y salida (I/O)**: Uso avanzado de print() e input()
+
+### 2. Control de Flujo y Colecciones de Datos
+- **Decisiones y ramificación**: if, if-else, if-elif-else y anidamiento
+- **Bucles e iteraciones**: while, for, range(), in, break, continue y cláusulas else en bucles
+- **Listas y tuplas**:
+  - Indexación, slicing, mutabilidad vs. inmutabilidad
+  - Métodos de lista, listas anidadas (matrices) y list comprehensions
+- **Diccionarios y cadenas**:
+  - Operaciones con claves/valores
+  - Métodos y funciones de strings
+
+### 3. Modularización, Funciones y Excepciones
+- **Funciones y generadores**: Definición, invocación, return, recursividad y None
+- **Interacción con el entorno**: Parámetros vs. argumentos, argumentos por posición y keyword, scopes (local vs. global) y shadowing
+- **Módulos y paquetes**
+- **Gestión de errores**:
+  - Jerarquía de excepciones (ArithmeticError, LookupError, etc.)
+  - Bloques try-except, propagación y delegación de responsabilidades
+  - Técnicas avanzadas: Chained exceptions (_context_, __cause__) y análisis de objetos traceback
+
+### 4. Programación Orientada a Objetos Avanzada (OOP)
+- **Conceptos core**: Clases, instancias, atributos, métodos e isinstance()/issubclass()
+- **Métodos mágicos (Dunder)**: Comparación, conversión, introspección y acceso a contenedores
+- **Arquitectura**:
+  - Herencia simple y múltiple, Method Resolution Order (MRO) y polimorfismo
+  - Herencia vs. composición ("is a" vs. "has a")
+  - Clases abstractas y métodos abstractos
+- **Encapsulamiento y métodos especiales**: Getters, setters, deleters, @classmethod y @staticmethod
+- **Metaprogramación**: Uso de la metaclasse type y atributos especiales del sistema
+
+### 5. Funciones Avanzadas y Serialización
+- **Sintaxis extendida**: Uso de *args y kwords, closures y decoradores (de función y de clase)
+- **Copia de objetos**: Labels vs. identidad, copy() y deepcopy()
+- **Persistencia de datos**: Serialización con pickle y almacenamiento en diccionario con shelve
+
+### 6. Estándares, Buenas Prácticas (PEP) y Calidad
+- **Filosofía Python**: PEP 1, PEP 8 (Estilo), PEP 20 (The Zen of Python)
+- **Documentación**: PEP 257 (Docstrings), linters, fixers y PEP 484 (Type hints)
+
+### 7. Desarrollo de Interfaces (GUI) y Redes
+- **Programación de GUIs con Tkinter**:
+  - Widgets (Button, Label, Entry, Radiobutton, Canvas)
+  - Layout Managers (grid, place), geometría y colores
+  - Programación dirigida por eventos: callbacks y binding
+- **Programación de red**:
+  - Sockets (TCP/IP), dominios, puertos y servicios
+  - Clientes REST: Métodos HTTP (GET, POST, PUT, DELETE) y códigos de estado
+  - Transferencia de datos: JSON y XML (procesamiento y estructura)
+
+### 8. Archivos, Bases de Datos y Entorno
+- **SQLite en Python**: Conexiones, cursores, transacciones y sentencias SQL (CRUD)
+- **Procesamiento de archivos**: Lectura/escritura de CSV y parsing/construcción de XML
+- **Herramientas de sistema**: Registro de eventos (logging), niveles y manejadores; archivos de configuración (.ini) con ConfigParser
 
 ---
 
-### 🟢 Part VI. Classes and OOP
+## Ejercicios propuestos
 
-- [ ] **Chapter 25. OOP: The Big Picture**
-- [ ] **Chapter 26. Class Coding Basics**
-- [ ] **Chapter 27. A More Realistic Example**
-- [ ] **Chapter 28. Class Coding Details**
-- [ ] **Chapter 29. Operator Overloading**
-- [ ] **Chapter 30. Designing with Classes**
-- [ ] **Chapter 31. Advanced Class Topics**
-
-> 🔍 Enfoque especial: diseño, responsabilidades, errores comunes en OOP
+El curso incluye una colección de ejercicios prácticos diseñados para reforzar cada uno de los temas abordados en el temario. Los enunciados de los ejercicios se encuentran disponibles en la carpeta [`/ejercicios`](./ejercicios) del repositorio, organizados por módulos temáticos.
 
 ---
 
-### 🟢 Part VII. Exceptions and Tools
-
-- [ ] **Chapter 32. Exception Basics**
-- [ ] **Chapter 33. Exception Coding Details**
-- [ ] **Chapter 34. Exception Objects**
-- [ ] **Chapter 35. Designing with Exceptions**
-
-> 🔍 Enfoque especial: debugging, control de errores, diseño robusto
-
----
-
-### 🟢 Part VIII. Advanced Topics
-
-- [ ] **Chapter 36. Unicode and Byte Strings**
-- [ ] **Chapter 37. Managed Attributes**
-- [ ] **Chapter 38. Decorators**
-- [ ] **Chapter 39. Metaclasses**
-
----
+> **Nota:** El material de estudio y los ejercicios están en constante desarrollo. Las contribuciones y sugerencias son bienvenidas.

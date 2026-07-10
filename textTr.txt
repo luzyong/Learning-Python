@@ -1,0 +1,880 @@
+=== Pagina 43 ===
+
+Realiza el trabajo que realiza en Excel en un libro de trabajo. según necesites, y cada uno aparece en su propia ventana. De forma predeterminada, los libros de Excel utilizan una extensión de archivo .xlsx.
+--------------------------------------------------
+
+=== Pagina 44 ===
+
+Cada libro contiene una o más hojas de trabajo y cada hoja de trabajo consta de celdas individuales. Cada celda puede contener un número, una fórmula o texto. Una hoja de trabajo también tiene celdas invisibles. Cada celda puede contener un número, una fórmula o texto. Una hoja de trabajo también tiene una capa de dibujo invisible que contiene cuadros, imágenes y diagramas. Los objetos en la capa de dibujo se ubican en la capa de dibujo de Objetos, que contiene cuadros, imágenes y diagramas. Los objetos en la capa de dibujo se ubican sobre la parte superior de las celdas, pero no están en las celdas como un número o una fórmula. Cada encimera de celdas, no está sobre la parte superior de las celdas, pero no están en las celdas como un número o una fórmula. Se puede acceder a cada hoja de trabajo de un libro de trabajo haciendo clic en la pestaña en la parte inferior del libro de trabajo. Se puede acceder al hacer clic en la pestaña. El libro de trabajo puede almacenar hojas de gráficos: muestra un único gráfico accesible al hacer clic en la pestaña.
+--------------------------------------------------
+
+=== Pagina 46 ===
+
+La hoja de trabajo consta de filas 1 1,048,576) y columnas A XFD). La fila y la columna de intersección son una sola celda, cada celda tiene una dirección única de la letra de su columna y el número de fila. la celda activa es En cualquier momento dado, una celda es la celda activa. La celda activa es la celda que acepta la entrada del teclado y su contenido se puede editar. Puede identificar la celda activa por su entrada de tablero de identificación más oscura y su contenido se puede editar. Puede identificar la celda activa por su borde más oscuro, como se muestra en la Figura 1.2. Si se selecciona más de una celda, el borde oscuro rodea el borde, como se muestra en la Figura 1.2. Si se selecciona más de una celda, el borde oscuro rodea toda la selección y la celda activa es la celda de color claro dentro del borde. Su dirección en el cuadro Nombre.
+--------------------------------------------------
+
+=== Pagina 47 ===
+
+alrededor de una hoja de trabajo. Estas teclas funcionan tal como era de esperar: la flecha hacia abajo mueve la celda activa una fila hacia abajo, la flecha hacia la derecha la mueve una columna hacia la derecha, y así sucesivamente. Re Pág y celda hacia abajo una fila, la flecha derecha lo mueve una columna hacia la derecha, y así sucesivamente. PgUp y PgDn mueven la celda activa hacia arriba o hacia abajo una ventana completa. (El número real de filas movidas. Cuando Bloq Num está activado, las teclas del teclado numérico generan números.
+--------------------------------------------------
+
+=== Pagina 48 ===
+
+cambie la celda activa con el mouse, haga clic en otra celda y puede usar las barras de desplazamiento para desplazar la ventana en cualquier dirección. Para desplazarse una celda, haga clic en cualquiera de las flechas de la barra de desplazamiento. Para desplazarse por una pantalla completa, haga clic en cualquier lado del cuadro de desplazamiento de la barra de desplazamiento. Para desplazarse más rápido, arrastre el cuadro de desplazamiento o haga clic derecho en cualquier lugar de la barra de desplazamiento para acceder a un menú de accesos directos.
+--------------------------------------------------
+
+=== Pagina 49 ===
+
+Presione Ctrl mientras usa la rueda del mouse para hacer zoom en la hoja de trabajo. Presione Ctrl mientras usa la rueda del mouse para hacer zoom en la hoja de trabajo. Si prefiere usar la rueda del mouse para hacer zoom en la hoja de trabajo sin presionar Ctrl, elija Archivo ➪ Opciones y seleccione Avanzado en la sección Avanzado. Coloque una marca de verificación junto a la casilla de verificación Zoom on Roll con IntelliMouse. Ribbon, En Office 2007, Microsoft presentó Ribbon, una colección de íconos en la parte superior de la pantalla que reemplazó los menús y barras de herramientas tradicionales. Las palabras encima de los iconos se conocen como pestañas: la pestaña Inicio, la pestaña Insertar, etc. La cinta puede estar oculta o visible: presione Ctrl+F1 (o haga doble clic en una pestaña en la parte superior). Si está oculto, presione Ctrl+F1 (o haga doble clic en una pestaña en la parte superior). Si la cinta está oculta, aparece temporalmente cuando hace clic en una pestaña y se oculta cuando hace clic en la hoja de trabajo. La barra de título Opciones de visualización de la cinta (al lado del botón Minimizar). control y elija una de las tres opciones de la cinta: Ocultar automáticamente la cinta, Mostrar pestañas o Mostrar pestañas y comandos. Los comandos disponibles varían según la pestaña seleccionada. Inicio contiene los comandos básicos del Portapapeles, comandos de formato, comandos de estilo, comandos para insertar y eliminar filas o columnas, además de una variedad de comandos de edición de hojas de trabajo. Insertar Insertar Seleccione esta pestaña cuando necesite insertar algo en una hoja de trabajo: una tabla, un diagrama, un gráfico, un símbolo, etc. Diseño de página Diseño de página Esta pestaña contiene comandos que afectan la apariencia general de su hoja de cálculo, incluidas algunas configuraciones relacionadas con la impresión. Fórmulas Fórmulas Utilice esta pestaña para insertar una fórmula, nombrar una celda o un rango, acceder a las herramientas de auditoría de fórmulas o controlar la forma en que Excel realiza los cálculos. Los comandos relacionados con los datos se encuentran en esta pestaña, Revisar Revisar. Esta pestaña contiene herramientas para revisar la ortografía, traducir palabras, agregar comentarios o proteger hojas. Ver Ver La pestaña Ver contiene comandos que controlan varios aspectos de cómo se ve una hoja. Algunos comandos de esta pestaña también están disponibles en la barra de estado. El desarrollador no es visible de forma predeterminada. Desarrollador Esta pestaña no está visible de forma predeterminada. Contiene comandos que son útiles para los programadores. Para mostrar la pestaña Desarrollador, elija Archivo ➪ Opciones y luego seleccione Personalizar Archivo ➪ Opciones Personalizar
+--------------------------------------------------
+
+=== Pagina 50 ===
+
+Cinta. Cinta. En la sección Personalizar la cinta a la derecha, asegúrese de que Pestañas principales esté seleccionada en el control desplegable y coloque una marca de verificación junto a Desarrollador. Ayuda Ayuda Esta pestaña proporciona formas de obtener ayuda, hacer sugerencias y acceder a otros aspectos de la comunidad de Microsoft. Complementos Complementos Esta pestaña solo está visible si cargó un libro de trabajo anterior o un complemento que personaliza el menú o las barras de herramientas. Debido a que los menús y las barras de herramientas ya no están disponibles en Excel 2019, la apariencia de los comandos en la cinta varía según el ancho de la ventana de Excel. Cuando la ventana de Excel es demasiado estrecha para mostrar todo, los comandos
+--------------------------------------------------
+
+=== Pagina 51 ===
+
+pestañas contextuales. Siempre que se selecciona un objeto (como un gráfico, una tabla o un diagrama SmartArt), en la cinta están disponibles herramientas específicas para trabajar con ese objeto.
+--------------------------------------------------
+
+=== Pagina 53 ===
+
+las sugerencias de teclas emergentes. Cada control de la cinta tiene una letra (o una serie de letras) que usted escribe para emitir el comando. Pero, de hecho, Ribbon es muy compatible con el teclado. El truco consiste en presionar la tecla Alt para mostrar las sugerencias de teclas emergentes. Cada control de la cinta tiene una letra (o una serie de letras) que usted escribe. No necesita mantener presionada la tecla Alt mientras escribe letras de información clave.
+--------------------------------------------------
+
+=== Pagina 54 ===
+
+Después de presionar Alt, también puede usar las teclas de flecha izquierda y derecha para desplazarse por las pestañas. Cuando llegue a la pestaña adecuada, presione la flecha hacia abajo para ingresar a la cinta. Luego presione Enter para ejecutarlo. estilo particular a una celda (eligiendo Inicio ➪ Estilos ➪ Estilos de celda), puede activar otra celda y presionar Ctrl+Y (o F4) para repetir el comando. Cuadro de búsqueda para encontrar comandos.
+--------------------------------------------------
+
+=== Pagina 55 ===
+
+Además de la cinta, Excel presenta muchos menús contextuales, a los que se accede haciendo clic derecho en casi cualquier elemento dentro de Excel. Los menús contextuales no contienen todos los elementos relevantes que se utilizan con más frecuencia para lo que se seleccione.
+--------------------------------------------------
+
+=== Pagina 56 ===
+
+El cuadro encima del menú contextual (la minibarra de herramientas) contiene herramientas utilizadas habitualmente en la pestaña Inicio. La mini barra de herramientas fue diseñada para reducir la distancia que tiene el mouse con respecto a la barra de herramientas. Normalmente, la barra de herramientas de acceso rápido aparece en el lado izquierdo de la barra de título, encima de la cinta. Alternativamente, puede mostrar la barra de herramientas de acceso rápido debajo de la cinta; simplemente haga clic derecho en la barra de herramientas de acceso rápido y elija Mostrar barra de herramientas de acceso rápido debajo de la cinta. De forma predeterminada, la barra de herramientas de Acceso rápido contiene cuatro herramientas: Autoguardar, Guardar, Deshacer y Rehacer. Puede personalizar la barra de herramientas de acceso rápido agregando otros comandos que utilice con frecuencia o eliminando los controles predeterminados. Para agregar un comando desde la cinta a su acceso rápido, haga clic derecho en el comando y elija Agregar a la barra de herramientas de acceso rápido. Puede revertir los efectos de las últimas 100 acciones que realizó. Si hace clic en la flecha en el lado derecho del botón Deshacer, verá una lista de las acciones que puede revertir. Haga clic en un elemento de esa lista para deshacer esa acción y todas las acciones posteriores que realizó.
+--------------------------------------------------
+
+=== Pagina 57 ===
+
+Todo lo que haga con el botón Archivo no se puede deshacer. Los cambios realizados por una macro no se pueden deshacer. La macro que cambia el libro borra la lista Deshacer.
+--------------------------------------------------
+
+=== Pagina 58 ===
+
+Dos tipos de cuadros de diálogo. Cuadro de diálogo típico en el que se muestra este tipo de cuadro de diálogo; no puede hacer nada en la hoja de trabajo hasta que cierre el cuadro de diálogo. Al hacer clic en Aceptar se realizan las acciones especificadas y al hacer clic en Cancelar se cierra el cuadro de diálogo. Al hacer clic en Aceptar se realizan las acciones especificadas y al hacer clic en Cancelar (o presionar Esc) se cierra el cuadro de diálogo sin realizar ninguna acción. La mayoría de los cuadros de diálogo de Excel son cuadros de diálogo Permanecer en la parte superior. Cuando se muestra un cuadro de diálogo no modal, puede continuar trabajando en Excel y el cuadro de diálogo permanece abierto. Los cambios realizados en un cuadro de diálogo no modal surten efecto inmediatamente. Se abre un cuadro de registro mientras continúa usando su hoja de trabajo. Un cuadro de diálogo no modal tiene un botón Cerrar pero no un botón Aceptar.
+--------------------------------------------------
+
+=== Pagina 59 ===
+
+Otro elemento de la interfaz de usuario es el panel de tareas. Los paneles de tareas aparecen automáticamente en respuesta a varios comandos. Por ejemplo, para trabajar con una imagen que haya insertado,
+--------------------------------------------------
+
+=== Pagina 60 ===
+
+No hay ningún botón Aceptar en un panel de tareas. No hay ningún botón Aceptar en un panel de tareas. Cuando haya terminado de usar un panel de tareas, haga clic en el botón Cerrar (X) en la esquina superior derecha. De forma predeterminada, un panel de tareas está acoplado en el lado derecho de la ventana de Excel, pero puede moverlo a cualquier lugar que desee haciendo clic en su barra de título y arrastrándolo. Excel recuerda la última posición, Excel recuerda la última posición. Para volver a acoplar, haga doble clic en la barra de título del panel de tareas.
+--------------------------------------------------
+
+=== Pagina 68 ===
+
+Un archivo de libro de Excel puede contener cualquier cantidad de hojas de trabajo, y cada hoja de trabajo se compone de más de 17 mil millones de celdas. Una celda puede contener cualquiera de los cuatro tipos básicos de datos. ■Un valor numérico ■Texto ■Una fórmula ■Un error Los valores numéricos representan una cantidad de algún tipo: los valores también pueden ser fechas (26 de febrero de 2019) u horas (como las 3:24 a. m.).
+--------------------------------------------------
+
+=== Pagina 69 ===
+
+Los números de Excel tienen una precisión de hasta 15 dígitos. 16 dígitos, sustituye una hoja de cálculo cero. El texto se utiliza a menudo para aclarar qué significan los valores de una hoja de cálculo o de dónde proceden los números.
+--------------------------------------------------
+
+=== Pagina 70 ===
+
+Las fórmulas pueden ser expresiones matemáticas simples o pueden utilizar algunas de las potentes funciones integradas en Excel. La Figura 2.1 muestra una hoja de cálculo de Excel configurada para calcular un resultado. Fórmulas que utilizan los valores (o incluso el texto) en las celdas para calcular un resultado. Cuando ingresa una fórmula en una celda, el resultado de la fórmula aparece en la celda. Si cambia cualquiera de las celdas utilizadas por una fórmula, la fórmula se vuelve a calcular y muestra el nuevo resultado.
+--------------------------------------------------
+
+=== Pagina 72 ===
+
+El lado izquierdo de la barra de estado de Excel normalmente muestra "Listo", lo que indica que Excel está listo para que usted ingrese o edite la hoja de cálculo. Si comienza a escribir números o texto en una celda, la barra de estado cambia para mostrar "Entrar" para indicar que está en modo Entrar. Los modos más comunes en los que se encuentra Excel son Listo, Entrar y Editar. Consulte "Modificación del contenido de las celdas" más adelante en Excel maneja las fechas mediante un sistema de números de serie. Este sistema facilita el manejo de fechas en fórmulas. La mayoría de las veces, no es necesario preocuparse por el sistema de fechas de números de serie de Excel. Simplemente puede ingresar una fecha en un formato de fecha común y Excel se encarga de los detalles detrás de escena. Por ejemplo, si necesita ingresar el 1 de junio de 2019, puede ingresar la fecha
+--------------------------------------------------
+
+=== Pagina 73 ===
+
+Cuando trabaja con horas, extiende el sistema de números de serie de fechas de Excel para incluir decimales. En otras palabras, Excel trabaja con tiempos utilizando días fraccionarios. Por ejemplo, puedes modificarlo de varias maneras. ■Eliminar el contenido de la celda. ■Reemplace el contenido de la celda con otra cosa. ■Editar el contenido de la celda. Para eliminar el contenido de una celda, simplemente haga clic en la celda y presione la tecla Eliminar. Para eliminar el contenido de una celda, simplemente haga clic en la celda y presione la tecla Eliminar. Para eliminar más de una celda, seleccione todas las celdas que desea eliminar y luego presione Eliminar. Al presionar se elimina el contenido de la celda pero no se elimina ningún formato.
+--------------------------------------------------
+
+=== Pagina 74 ===
+
+Para reemplazar el contenido de una celda con otra cosa, simplemente active la celda y escriba su nueva entrada, que reemplaza el contenido anterior. Cualquier formato aplicado a su nueva entrada, que reemplaza el contenido anterior. Cualquier formato aplicado a la celda permanece en su lugar y se aplica al nuevo contenido. También puede reemplazar el contenido de la celda arrastrando y soltando o copiando y pegando datos de otra celda. En ambos casos, el formato de la celda será reemplazado por el formato de los nuevos datos. Para evitar pegar formato, elija Inicio ➪ Portapapeles ➪ Pegar ➪ Valores (V) o datos nuevos. Para evitar pegar formato, elija Inicio ➪ Portapapeles ➪ Pegar ➪ Valores (V) o Inicio ➪ Portapapeles ➪ Pegar ➪ Fórmulas (F). es más fácil. Sin embargo, si la celda contiene texto extenso o una fórmula compleja y necesita hacer sólo una pequeña modificación, probablemente desee editar la celda en lugar de volver a ingresar. ■ Haga doble clic en la celda para editar el contenido de la celda directamente en la celda. ■Seleccione la celda y presione F2 para editar el contenido de la celda directamente en la celda.
+--------------------------------------------------
+
+=== Pagina 75 ===
+
+■Seleccione la celda que desea editar y luego haga clic dentro de la barra de fórmulas para editar el contenido de la celda en la barra de fórmulas. lado izquierdo de la barra de estado en la parte inferior de la ventana). Cuando Excel está en modo Edición, la barra de fórmulas habilita dos iconos: Cancelar (la X) e Intro (la marca de verificación). La Figura 2.3 muestra estos dos iconos. Al hacer clic en el icono Cancelar se cancela la edición sin cambiar el contenido de la celda. (Presionar Esc tiene el mismo efecto.) Al hacer clic en el icono Entrar, se completa la edición e ingresa el contenido modificado en la celda. (Presionar Enter tiene el mismo efecto, excepto que hacer clic en el ícono Enter no cambia la celda activa).
+--------------------------------------------------
+
+=== Pagina 76 ===
+
+De forma predeterminada, Excel selecciona automáticamente la siguiente celda hacia abajo cuando presiona la tecla Intro después de ingresar datos en una celda. Para cambiar esta configuración, elija Archivo ➪ Opciones y haga clic en Cuando se selecciona un rango de celdas, Excel selecciona automáticamente la siguiente celda del rango cuando presiona Entrar, incluso si deshabilitó la opción Después de presionar Entrar, mueva la selección. Si la selección consta de varias filas, Excel baja en la columna; cuando llega al final de la selección en la columna, se mueve a la primera celda seleccionada en la siguiente columna. Si necesita ingresar los mismos datos en varias celdas, Excel ofrece un atajo útil. Seleccione todas las celdas que desea que contengan los datos; ingrese el valor, texto o fórmula; y luego presione Ctrl+Entrar. La misma información se inserta en cada celda de la selección.
+--------------------------------------------------
+
+=== Pagina 77 ===
+
+Puede presionar F2 para cambiar entre el modo Ingresar y el modo Editar.
+--------------------------------------------------
+
+=== Pagina 78 ===
+
+fácil. Utiliza el controlador de relleno (el cuadro pequeño en la parte inferior derecha de la celda activa). Puede arrastrar el controlador de relleno para copiar la celda o completar automáticamente una serie.
+--------------------------------------------------
+
+=== Pagina 79 ===
+
+La función Autocompletar de Excel facilita la introducción del mismo texto en varias celdas. Con Autocompletar, escribe las primeras letras de una entrada de texto en una celda y Excel completa automáticamente la entrada basándose en otras entradas que ya realizó en la columna.
+--------------------------------------------------
+
+=== Pagina 80 ===
+
+Si tiene texto extenso en una celda, puede forzar a Excel a mostrarlo en varias líneas dentro de la celda: presione Alt+Entrar para comenzar una nueva línea en una celda.
+--------------------------------------------------
+
+=== Pagina 81 ===
+
+Excel también puede mostrar valores con fracciones. Para ingresar un valor fraccionario en una celda, deje un espacio entre el número entero y la fracción. Por ejemplo, para ingresar 6 7/8, ingrese 6 7/8 y luego presione Entrar. Cuando selecciona la celda, aparece 6.875 en la barra de fórmulas y la entrada de la celda aparece como una fracción. Si solo tiene una fracción (por ejemplo, 1/8), primero debe ingresar un cero, como este (0 1/8), o Excel probablemente asumirá que está ingresando una fecha.
+--------------------------------------------------
+
+=== Pagina 83 ===
+
+La aplicación de formato numérico cambia la apariencia de los valores contenidos en las celdas.
+--------------------------------------------------
+
+=== Pagina 84 ===
+
+Los valores que ingresa en las celdas normalmente no tienen formato.
+--------------------------------------------------
+
+=== Pagina 85 ===
+
+Excel puede realizar algunos formatos automáticamente. La lista desplegable Formato de número contiene 11 formatos de números comunes (consulte la Figura 2.9). El grupo Inicio ➪ Número en la cinta contiene controles que le permiten aplicar rápidamente formatos de números comunes. botón. El grupo también contiene un botón para aumentar el número de decimales y otro para disminuir el número de decimales.
+--------------------------------------------------
+
+=== Pagina 87 ===
+
+A veces, sin embargo, desea tener más control sobre cómo aparecen sus valores. cuadro de diálogo, como se muestra en la Figura 2.10. Para formatear números, debe utilizar la pestaña Número. Puede abrir el cuadro de diálogo Formato de celdas de varias maneras. Comience seleccionando la celda o celdas que desea formatear y luego realice una de las siguientes acciones: ■ Elija Inicio ➪ Número y haga clic en el pequeño icono de inicio del cuadro de diálogo (en la esquina inferior derecha del grupo Número). ■ Elija Inicio ➪ Número, haga clic en la lista desplegable Formato de número y elija Más. Formatos de números de la lista desplegable.
+--------------------------------------------------
+
+=== Pagina 88 ===
+
+La categoría Número tiene tres opciones que puede controlar: la cantidad de decimales que se muestran, si se usa un separador de miles y cómo desea que se muestren los números negativos. El cuadro de lista Números negativos tiene cuatro opciones (dos de las cuales muestran números negativos).
+--------------------------------------------------
+
+=== Pagina 93 ===
+
+■Ctrl+RePág activa la hoja anterior, si existe. ■Ctrl+AvPág activa la siguiente hoja, si existe. Si su libro tiene muchas hojas, es posible que no todas sus pestañas estén visibles. Utilice los controles de desplazamiento de pestañas (consulte la Figura 3.2) para desplazarse por las pestañas de la hoja. Al hacer clic en los controles de desplazamiento, se desplaza una pestaña a la vez, y Ctrl+clic se desplaza a la primera o última hoja. Las pestañas de la hoja comparten espacio.
+--------------------------------------------------
+
+=== Pagina 94 ===
+
+A continuación se muestran cuatro formas de agregar una nueva hoja de cálculo a un libro: ■ Haga clic en el control Nueva hoja, que es el icono del signo más ubicado a la derecha del ■ Presione Mayús+F11. Se agrega una nueva hoja antes de la hoja activa. ■En la cinta, elija Inicio ➪ Celdas ➪ Insertar ➪ Insertar hoja. Una nueva hoja es ■Haga clic con el botón derecho en la pestaña de una hoja, elija Insertar en el menú contextual y seleccione la última pestaña de hoja visible. Se agrega una nueva hoja después de la hoja activa. agregado antes de la hoja activa. Ficha General del cuadro de diálogo Insertar que aparece. Luego seleccione el ícono Hoja de trabajo y haga clic en Aceptar. Se agrega una nueva hoja antes de la hoja activa. ■Haga clic con el botón derecho en la pestaña de su hoja y elija Eliminar en el menú contextual. ■ Active la hoja de trabajo no deseada y elija Inicio ➪ Celdas ➪ Eliminar ➪ Eliminar libro; puede eliminarla de dos maneras. Hoja.
+--------------------------------------------------
+
+=== Pagina 95 ===
+
+Existen tres formas de cambiar el nombre de una hoja: ■ Desde la cinta, elija Inicio ➪ Celdas ➪ Formato ➪ Cambiar nombre de hoja. ■Haga doble clic en la pestaña de la hoja. ■Haga clic derecho en la pestaña de la hoja y elija Cambiar nombre de hoja. Los nombres de las hojas pueden contener hasta 31 caracteres y se permiten espacios. Sin embargo, no puede utilizar los siguientes caracteres en los nombres de las hojas:
+--------------------------------------------------
+
+=== Pagina 96 ===
+
+Para cambiar el color de la pestaña de una hoja, elija Inicio ➪ Celdas ➪ Formato ➪ Color de pestaña, o haga clic derecho en la pestaña y elija Color de pestaña en el menú contextual. Luego seleccione el color de la paleta de colores. No puede cambiar el color del texto, pero Excel elegirá un color que contraste
+--------------------------------------------------
+
+=== Pagina 97 ===
+
+útil si no quieres que otros lo vean o si simplemente quieres quitarlo del camino. Cuando una hoja está oculta, su pestaña también está oculta. No puede ocultar todas las hojas de un libro; al menos una hoja debe permanecer visible. Para ocultar una hoja de cálculo, elija Inicio ➪ Celdas ➪ Formato ➪ Ocultar y mostrar ➪ Ocultar hoja, o haga clic derecho en la pestaña de su hoja y elija Ocultar. La hoja de trabajo activa (u hojas de trabajo seleccionadas) Para mostrar una hoja de trabajo oculta, elija Inicio ➪ Celdas ➪ Formato ➪ Ocultar y mostrar ➪ Mostrar hoja, o haga clic con el botón derecho en cualquier pestaña de la hoja y elija Mostrar. Excel abre el cuadro de diálogo Mostrar,
+--------------------------------------------------
+
+=== Pagina 98 ===
+
+No puede seleccionar varias hojas en este cuadro de diálogo, por lo que debe repetir el comando para cada hoja que desee mostrar. Cuando muestra una hoja, aparece en su posición anterior entre las pestañas de la hoja. Para evitar que otros muestren hojas ocultas, inserten hojas nuevas, cambien el nombre de las hojas, las copien o las eliminen, proteja la estructura del libro. 1. Elija Revisar ➪ Proteger ➪ Proteger libro. 2. En el cuadro de diálogo Proteger estructura y ventanas, seleccione la opción Estructura. 3. Proporcione una contraseña (opcional) y haga clic en Aceptar.
+--------------------------------------------------
+
+=== Pagina 99 ===
+
+Para crear y mostrar una nueva vista del libro activo, elija Ver ➪ Ventana ➪ Nuevo Excel muestra una nueva ventana para el libro activo, similar a la que se muestra en Figura Ventana. Un único libro puede tener tantas vistas (es decir, ventanas separadas) como desee. Cada ventana es independiente. En otras palabras, desplazarse a una nueva ubicación en una ventana no provoca el desplazamiento en las otras ventanas. Sin embargo, si realiza cambios en la hoja de trabajo que se muestra en una ventana en particular, esos cambios también se realizan en todas las vistas de esa hoja de trabajo.
+--------------------------------------------------
+
+=== Pagina 100 ===
+
+cierre las otras ventanas del libro. Si tiene cambios no guardados, Excel le pedirá que los guarde solo cuando cierre la última ventana. En algunas situaciones, es posible que desee comparar dos hojas de trabajo que se encuentran en ventanas diferentes. La función Ver en paralelo facilita un poco esta tarea. asegúrese de que las dos hojas se muestren en ventanas separadas. elija Ver ➪ Ventana ➪ Nueva ventana
+--------------------------------------------------
+
+=== Pagina 101 ===
+
+libro de trabajo activo. Active la primera ventana; luego elija Ver ➪ Ventana ➪ Ver lado a lado. Si hay más de dos ventanas abiertas, verá un cuadro de diálogo que le permite seleccionar la ventana para la comparación. Las dos ventanas están en mosaico para ocupar toda la pantalla. Cuando se utiliza la función Comparar en paralelo, al desplazarse en una de las ventanas también se desplaza la otra ventana. Si no desea este desplazamiento simultáneo, elija Ver ➪ Ventana. Si prefiere no saturar su pantalla con ventanas adicionales, Excel ofrece otra opción para ver varias partes de la misma hoja de cálculo. Al elegir Ver ➪ Ventana ➪ Dividir, se divide la hoja de trabajo activa en dos o cuatro paneles separados. La división se produce en la ubicación que divide la hoja de trabajo activa en dos o cuatro paneles separados. La división ocurre en la ubicación de la celda activa. Si el puntero de la celda activa está en la fila 1 o en la columna A, este comando da como resultado
+--------------------------------------------------
+
+=== Pagina 104 ===
+
+Para mostrar la ventana de inspección, elija Fórmulas ➪ Auditoría de fórmulas ➪ Ventana de inspección. En algunas situaciones, es posible que desee controlar el valor de una celda en particular mientras trabaja. A medida que se desplaza por la hoja de trabajo, esa celda puede desaparecer de la vista. Una característica conocida como Watch Window puede ayudar. Una ventana de inspección muestra el valor de cualquier número de celdas en una práctica ventana que siempre está visible. Para agregar una celda para monitorear, haga clic en Agregar vigilancia y especifique la celda que desea monitorear.
+--------------------------------------------------
+
+=== Pagina 105 ===
+
+Las opciones no cambian el número de filas o columnas. En cambio, al insertar una nueva fila, se mueven hacia abajo las otras filas para acomodar la nueva fila. La última fila simplemente se elimina de la hoja de trabajo si está vacía. Al insertar una nueva columna, las columnas se desplazan hacia la derecha y la última columna se elimina si está vacía. Para insertar una nueva fila o filas, utilice cualquiera de estos métodos: ■Seleccione una fila completa o varias filas haciendo clic en los números de fila en la hoja de trabajo ■Mueva la celda activa a la fila que desea insertar y luego elija Inicio ➪ ■Seleccione una columna o columnas completas haciendo clic en las letras de las columnas en la hoja de trabajo ■Mueva la celda activa a la columna que desea insertar y luego elija Borde de inicio. Haga clic derecho y elija Insertar en el menú contextual. Celdas ➪ Insertar ➪ Insertar filas de hoja. Si selecciona varias celdas en la columna, borde de Excel. Haga clic derecho y elija Insertar en el menú contextual. ➪ Celdas ➪ Insertar ➪ Insertar columnas de hoja. Si selecciona varias celdas en la fila, inserta filas adicionales que corresponden al número de celdas seleccionadas en la columna. Excel inserta columnas adicionales que corresponden al número de celdas seleccionadas en la columna y mueve las filas debajo de la inserción hacia abajo. la fila. Para insertar una nueva columna o columnas, utilice cualquiera de estos métodos: También puede insertar celdas en lugar de solo filas o columnas. Seleccione el rango en el que desea agregar nuevas celdas y luego elija Inicio ➪ Celdas ➪ Insertar ➪ Insertar celdas (o haga clic derecho en la selección y elija Insertar). Para insertar celdas, debe desplazar las celdas existentes hacia la derecha o hacia abajo. Por lo tanto, Excel muestra el cuadro de diálogo Insertar que se muestra en la Figura 3.11 para que
+--------------------------------------------------
+
+=== Pagina 106 ===
+
+Para eliminar una fila o filas, utilice cualquiera de estos métodos: ■ Seleccione una fila completa o varias filas haciendo clic en los números de fila en la hoja de trabajo. ■ Mueva la celda activa a la fila que desea eliminar y luego elija Inicio ➪ borde. Haga clic derecho y elija Eliminar en el menú contextual. Celdas ➪ Eliminar ➪ Eliminar filas de hoja. Si selecciona varias celdas en la columna, Excel elimina todas las filas de la selección. La eliminación de columnas funciona de manera similar.
+--------------------------------------------------
+
+=== Pagina 107 ===
+
+■Arrastre el borde de la columna derecha con el mouse hasta que la columna tenga el ancho deseado. ■Elija Inicio ➪ Celdas ➪ Formato ➪ Ancho de columna e ingrese un valor en la columna ■Elija Inicio ➪ Celdas ➪ Formato ➪ Autoajustar ancho de columna para ajustar el ancho del ■Haga doble clic en el borde derecho del encabezado de una columna para establecer el ancho de la columna automáticamente en el cuadro de diálogo Ancho. columna seleccionada para que quepa la entrada más ancha de la columna. En lugar de seleccionar una llamada a la entrada más amplia de la columna. umnas, haga clic en el botón donde se cruzan los encabezados de fila y columna. Puede cambiar la columna completa, puede simplemente seleccionar celdas en la columna y el ancho de la columna se ajusta utilizando cualquiera de las siguientes técnicas: según la entrada más amplia de su selección.
+--------------------------------------------------
+
+=== Pagina 108 ===
+
+Sin embargo, puede establecer la altura de la fila manualmente utilizando cualquiera de las siguientes técnicas. Al igual que con las columnas, puede seleccionar varias filas: ■ Arrastre el borde inferior de la fila con el mouse hasta que la fila tenga la altura deseada. ■Elija Inicio ➪ Celdas ➪ Formato ➪ Alto de fila e ingrese un valor (en puntos) en el ■Haga doble clic en el borde inferior de una fila para establecer la altura de la fila automáticamente en el cuadro de diálogo Alto de fila. entrada más alta de la fila. También puede elegir Inicio ➪ Celdas ➪ Formato ➪ AutoAjustar altura de fila para esta tarea. En algunos casos, es posible que desee ocultar filas o columnas específicas. Ocultar filas y columnas puede resultar útil si no desea que los usuarios vean información particular o si necesita imprimir un informe que resuma la información de la hoja de cálculo sin mostrar todos los detalles. Para ocultar filas en su hoja de trabajo, seleccione la fila o filas que desea ocultar haciendo clic en Para ocultar columnas, use la misma técnica, pero comience seleccionando columnas en lugar de filas. el encabezado de fila de la izquierda. Luego haga clic derecho y elija Ocultar en el menú contextual. O puede utilizar los comandos del menú Inicio ➪ Celdas ➪ Formato ➪ Ocultar y mostrar. Una fila oculta es en realidad una fila con su altura establecida en cero. De manera similar, una columna oculta tiene un ancho de columna de cero. Cuando usa las teclas de navegación para mover la celda activa, celdas. Otra forma de mostrar una fila o columna es elegir Inicio ➪ Edición ➪ Buscar y seleccionar ➪ Ir a encabezado de fila estrecho para filas ocultas. Puede hacer clic y arrastrar el encabezado de la columna para hacer Para (o usar una de sus dos teclas de método abreviado: F5 o Ctrl+G) para seleccionar una celda en una fila oculta o ampliar la columna y hacerla visible nuevamente. Para una fila oculta, haga clic y arrastre la pequeña columna. Por ejemplo, si la columna A está oculta, puede presionar F5 e ir a la celda A1 (o cualquier otro encabezado de fila para hacer visible la fila. celda de la columna A) para mover la celda activa a la columna oculta. Luego puede elegir Inicio ➪ Celdas ➪ Formato ➪ Ocultar y mostrar ➪ Mostrar columnas.
+--------------------------------------------------
+
+=== Pagina 109 ===
+
+Una celda es un elemento único en una hoja de trabajo que puede contener un valor, texto o una fórmula. Una celda se identifica por su dirección, que consta de la letra de la columna y el número de la fila. Por ejemplo, celda Un grupo de una o más celdas se llama rango. Para designar una dirección de rango, especifique su dirección de celda superior izquierda y su dirección de celda inferior derecha, separadas por dos puntos.
+--------------------------------------------------
+
+=== Pagina 110 ===
+
+Puede seleccionar un rango de varias maneras: ■Haga clic con el botón izquierdo y arrastre sobre el rango. Si arrastra hasta el final de la ventana, el trabajo: ■Presione la tecla Mayús mientras usa las teclas de navegación para seleccionar un rango. ■Presione F8 para ingresar al modo Ampliar selección (Extender selección aparece en el estado ■ Escriba la dirección de celda o rango en el cuadro Nombre (ubicado a la izquierda de la Fórmula ■ Elija Inicio ➪ Edición ➪ Buscar y seleccionar ➪ Ir a (o presione F5 o Ctrl+G) e ingrese una hoja se desplazará. En este modo, haga clic en la celda inferior derecha del rango o use la barra de teclas de navegación) y presione Entrar. Excel selecciona la celda o rango que especificó. dirección del rango manualmente en el cuadro de diálogo Ir a. Cuando hace clic en Aceptar, Excel selecciona ampliar el rango. Presione F8 nuevamente para salir del modo Ampliar selección. las celdas en el rango que especificó.
+--------------------------------------------------
+
+=== Pagina 111 ===
+
+■Haga clic en el encabezado de la fila o columna para seleccionar una sola fila o columna o haga clic y arrastre ■Para seleccionar varias filas o columnas (no adyacentes), haga clic en la primera fila o columna ■Presione Ctrl+barra espaciadora para seleccionar las columnas de las celdas seleccionadas actualmente. Presione el mismo formato numérico o las mismas opciones de alineación en una fila o columna completa. Usted para varias filas o columnas. encabezado y luego mantenga presionada la tecla Ctrl mientras hace clic en la fila o columna adicional: Mayús+barra espaciadora para seleccionar las filas de las celdas seleccionadas actualmente. Puede seleccionar filas y columnas enteras de la misma manera que selecciona los rangos: umn encabezado que desee. La mayoría de las veces, los rangos que selecciona son contiguos: un único rectángulo de celdas. Excel también le permite trabajar con rangos no contiguos, que constan de dos o más rangos (o celdas individuales) que no son necesariamente adyacentes entre sí. La selección de rangos no contiguos también se conoce como selección múltiple. Si desea aplicar el mismo formato en nuestros rangos, mantenga presionada la tecla Ctrl mientras hace clic y arrastra. Si está seleccionando un rango usando las teclas de flecha, presione Shift+F8 para ingresar al modo Agregar o quitar selección (ese término aparecerá en la barra de estado). Presione Shift+F8 nuevamente para salir del modo Agregar o quitar selección. En cualquier lugar donde escriba el rango manualmente, como en el cuadro Nombre o en el cuadro de diálogo Ir a, simplemente separe los rangos no contiguos con una coma. Por ejemplo, escribiendo A1:A10,
+--------------------------------------------------
+
+=== Pagina 112 ===
+
+Además de los rangos bidimensionales en una sola hoja de trabajo, los rangos pueden extenderse a través de varias hojas de trabajo para ser rangos tridimensionales.
+--------------------------------------------------
+
+=== Pagina 113 ===
+
+1. Active la hoja de cálculo de Totales haciendo clic en su pestaña. 2. Seleccione el rango B3:F3. 3. Presione Mayús y haga clic en la pestaña Hoja de fabricación. Este paso selecciona todas las hojas de trabajo entre la hoja de trabajo activa (Totales) y la pestaña de la hoja en la que hace clic; en esencia, un rango tridimensional de celdas (consulte la Figura 4.4). Cuando se seleccionan varias hojas, la barra de título de la ventana del libro muestra Grupo para recordarle que ha seleccionado un grupo de hojas y que está en modo Grupo.
+--------------------------------------------------
+
+=== Pagina 114 ===
+
+4. Elija Inicio ➪ Fuente ➪ Negrita y luego elija Inicio ➪ Fuente ➪ Color de relleno para aplicar un 5. Haga clic en una de las otras pestañas de la hoja. Este paso selecciona la hoja y cancela Agrupar fondo coloreado. Excel aplica el formato al rango seleccionado en todo el modo; El grupo ya no se muestra en la barra de título. hojas seleccionadas. Cuando un libro está en modo Grupo, cualquier cambio que realice en las celdas de una hoja de trabajo también se aplica a las celdas correspondientes en todas las demás hojas de trabajo agrupadas. Puede usar En general, seleccionar un rango de varias hojas es un proceso simple de dos pasos: seleccione el rango en una hoja y luego seleccione las hojas de trabajo para incluir en el rango. Para seleccionar un grupo de
+--------------------------------------------------
+
+=== Pagina 115 ===
+
+es posible que necesite ubicar tipos específicos de celdas en sus hojas de trabajo. para ubicar estos y muchos otros tipos especiales de celdas: seleccione un rango y elija Inicio ➪ Edición ➪ Buscar y seleccionar ➪ Ir a especial para mostrar el cuadro de diálogo Ir a especial, como se muestra
+--------------------------------------------------
+
+=== Pagina 116 ===
+
+Después de hacer su elección en el cuadro de diálogo, Excel selecciona el subconjunto calificado de celdas en la selección actual. A menudo, este subconjunto de celdas es una selección múltiple. Si ninguna celda califica, la selección actual. A menudo, este subconjunto de celdas es una selección múltiple. Si ninguna celda califica, Excel le informará con el mensaje No se encontraron celdas. Ir a opciones especiales
+--------------------------------------------------
+
+=== Pagina 117 ===
+
+Otra forma de seleccionar celdas es elegir Inicio ➪ Edición ➪ Buscar y seleccionar ➪ Buscar (o presionar Ctrl+F), lo que le permite seleccionar celdas por su contenido. El cuadro de diálogo Buscar y reemplazar
+--------------------------------------------------
+
+=== Pagina 118 ===
+
+Ingrese el texto que está buscando; luego haga clic en Buscar todo. El cuadro de diálogo se expande para mostrar todas las celdas que coinciden con sus criterios de búsqueda. Por ejemplo, la Figura 4.7 muestra la lista del cuadro de diálogo y la pantalla se desplazará para que pueda ver la celda en contexto. Para seleccionar todas las celdas de la lista, primero seleccione cualquier elemento de la lista. Luego presione Ctrl+A para seleccionarlos todos. El cuadro de diálogo Buscar y reemplazar admite dos caracteres comodín:
+--------------------------------------------------
+
+=== Pagina 119 ===
+
+Coincidir mayúsculas y minúsculas Si esta casilla de verificación está seleccionada, las mayúsculas y minúsculas del texto deben coincidir exactamente. Para hacer coincidir el contenido completo de la celda Si esta casilla de verificación está seleccionada, se produce una coincidencia si la lista desplegable Buscar en esta celda tiene tres opciones: Valores, Fórmulas y Comentarios. En el ejemplo, al buscar a Smith no se localiza a Smith. contiene sólo la cadena de búsqueda (y nada más). Por ejemplo, la búsqueda de Excel no busca solo el texto que compone la fórmula o el contenido de la celda que contiene Microsoft Excel. Cuando se utilizan caracteres comodín, una celda exacta si no hay fórmula. La opción Valores analiza el valor de la celda y los resultados, pero no es necesaria la coincidencia. texto, de la fórmula. Si, por ejemplo, se selecciona Fórmulas, la búsqueda de 900 no encontrará una celda que contenga la fórmula =899+1, pero encontrará una celda con un valor de 900. La opción Valores encontrará ambas celdas.
+--------------------------------------------------
+
+=== Pagina 120 ===
+
+Copiar o mover consta de dos pasos (aunque hay métodos abreviados disponibles): 1. Seleccione la celda o rango para copiar (el rango de origen) y cópielo al Portapapeles. Para 2. Seleccione la celda o rango que contendrá la copia (el rango de destino) y pegue, mueva el rango en lugar de copiarlo, corte el rango en lugar de copiarlo. el contenido del Portapapeles. En lugar de elegir Inicio ➪ Portapapeles ➪ Pegar, puede simplemente activar la celda de destino. Si está copiando un rango, no necesita seleccionar un rango completo del mismo tamaño antes de elegir Inicio ➪ Portapapeles ➪ Copiar, se transfiere una copia de la celda o rango seleccionado y presione Entrar. Si utiliza esta técnica, Excel elimina la información copiada al hacer clic en el botón Pegar. Sólo necesita activar la celda superior izquierda en el Portapapeles de Windows de destino y en el Portapapeles de Office. Después de realizar la copia de parte de esta operación, portapapeles para que no se pueda volver a pegar. rango. ción, seleccione la celda de destino y elija Inicio ➪ Portapapeles ➪ Pegar.
+--------------------------------------------------
+
+=== Pagina 121 ===
+
+■Haga clic derecho en el rango y elija Copiar (o Cortar) en el menú contextual para copiar el ■Haga clic derecho y elija Pegar en el menú contextual que aparece para pegar las celdas seleccionadas en el Portapapeles. Contenido del portapapeles a la celda o rango seleccionado. ■Ctrl+C copia las celdas seleccionadas tanto en el Portapapeles de Windows como en Office. ■Ctrl+X corta las celdas seleccionadas en el Portapapeles de Windows y en Office. ■Ctrl+V pega el contenido del Portapapeles de Windows en la celda o rango seleccionado. Portapapeles. Portapapeles.
+--------------------------------------------------
+
+=== Pagina 123 ===
+
+Excel también le permite copiar o mover una celda o rango arrastrándolo. Para copiar usando arrastrar y soltar, seleccione la celda o rango que desea copiar, presione Ctrl y mueva el mouse a uno de los bordes de la selección. (El puntero del mouse se aumenta con un pequeño signo más). Luego arrastre la selección a su nueva ubicación mientras continúa presionando la tecla Ctrl. La selección original permanece y Excel hace una nueva copia.
+--------------------------------------------------
+
+=== Pagina 124 ===
+
+Excel proporciona opciones adicionales para copiar a celdas adyacentes. Para usar estos comandos, active la celda que está copiando y extienda la selección de celdas para incluir las celdas en ■Inicio ➪ Edición ➪ Rellenar ➪ Abajo (o Ctrl+D) copia la celda en el rango seleccionado ■Inicio ➪ Edición ➪ Relleno ➪ Derecha (o Ctrl+R) copia la celda en el rango seleccionado en ■Inicio ➪ Edición ➪ Relleno ➪ Arriba copia la celda en el rango seleccionado arriba. ■Inicio ➪ Edición ➪ Rellenar ➪ Izquierda copia la celda en el rango seleccionado a la izquierda. que estás copiando. Luego emita el comando apropiado de la siguiente lista para uno de los siguientes. el derecho. copia paso a paso:
+--------------------------------------------------
+
+=== Pagina 125 ===
+
+Puede utilizar los procedimientos de copia descritos anteriormente para copiar una celda o rango a otra hoja de trabajo, incluso si la hoja de trabajo está en un libro diferente. Por supuesto, debe activar Excel, que ofrece una forma más rápida de copiar una celda o rango y pegarlo en otras hojas de cálculo del mismo libro: 1. Seleccione el rango a copiar. 2. Presione Ctrl y haga clic en las pestañas de las hojas de trabajo a las que desea acceder. 3. Elija Inicio ➪ Edición ➪ Rellenar ➪ Entre hojas de trabajo. Aparece un cuadro de diálogo que le pregunta 4. Haga su elección y luego haga clic en Aceptar. Excel copia el rango seleccionado para copiar la información. Excel muestra Grupo en la barra de título del libro. usted lo que desea copiar (Todo, Contenido o Formatos). hojas de trabajo seleccionadas; la nueva copia ocupa las mismas celdas en las hojas de trabajo seleccionadas que el original ocupa en la hoja de trabajo inicial.
+--------------------------------------------------
+
+=== Pagina 128 ===
+
+Las opciones de pegado son las siguientes: Para otro método de pegado, elija Inicio ➪ Portapapeles ➪ Pegar ➪ Pegado especial para mostrar el cuadro de diálogo Pegado especial (consulte la Figura 4.11). También puede hacer clic derecho y elegir Pegado especial en el menú contextual para mostrar este cuadro de diálogo. Este cuadro de diálogo tiene varios
+--------------------------------------------------
+
+=== Pagina 131 ===
+
+Excel le permite asignar nombres descriptivos a celdas y rangos.
+--------------------------------------------------
+
+=== Pagina 132 ===
+
+■Los nombres no pueden contener espacios. Es posible que desee utilizar un carácter de subrayado para simular: ■ Puede utilizar cualquier combinación de letras y números, pero el nombre debe comenzar. ■ No se permiten símbolos (excepto guiones bajos, barras invertidas y puntos). ■ Los nombres están limitados a 255 caracteres, pero es una buena práctica mantener los nombres con un espacio lo más corto posible (como Annual_Total). con una letra, un guión bajo o una barra invertida. Un nombre no puede comenzar con un número (como sea posible pero aún significativo. 3er trimestre) ni parecerse a la dirección de una celda (como QTR3). Sin embargo, si estos son nombres deseables, puede preceder el nombre con un guión bajo o una barra invertida, por ejemplo, _3rd Quarter y \QTR3. La forma más rápida de crear un nombre es utilizar el cuadro Nombre (a la izquierda de la barra de fórmulas). Seleccione la celda o rango a nombrar, haga clic en el cuadro Nombre y escriba el nombre. Presione Enter para crear el nombre. (Debe presionar Enter para registrar el nombre; si escribe un nombre y Para tener más control sobre el nombre de celdas y rangos, use el cuadro de diálogo Nuevo nombre. Comience seleccionando la celda o rango al que desea nombrar. Luego elija Fórmulas ➪ Nombres definidos
+--------------------------------------------------
+
+=== Pagina 133 ===
+
+➪ Definir nombre. Para crear nombres utilizando texto adyacente, comience seleccionando el texto del nombre y las celdas que desea nombrar. (Estos elementos pueden ser celdas individuales o rangos de celdas). Los nombres deben estar adyacentes a las celdas que estás nombrando. (Se permite una selección múltiple). Luego elija Fórmulas ➪ Nombres definidos ➪ Crear a partir de selección. Excel muestra Crear nombres desde
+--------------------------------------------------
+
+=== Pagina 136 ===
+
+Para agregar un comentario a una celda, seleccione la celda y utilice cualquiera de estas acciones: ■ Elija Revisar ➪ Comentarios ➪ Nuevo comentario. ■Haga clic derecho en la celda y elija Insertar comentario en el menú contextual. ■Presione Mayús+F2. Puede forzar que se muestre un comentario incluso cuando el mouse no está sobre la celda. Haga clic derecho en la celda y elija Mostrar/Ocultar comentarios. Aunque este comando hace referencia, haga clic derecho en la celda y elija Ocultar comentario.
+--------------------------------------------------
+
+=== Pagina 137 ===
+
+Si no te gusta el aspecto predeterminado de los comentarios de las celdas, puedes realizar algunos cambios. Haga clic derecho en la celda y elija Editar comentario. Seleccione el texto en el comentario y use los comandos.
+--------------------------------------------------
+
+=== Pagina 139 ===
+
+Para leer todos los comentarios en un libro de trabajo, elija Revisar ➪ Comentarios ➪ Siguiente. Siga haciendo clic en Siguiente para recorrer todos los comentarios de un libro. Elija Revisar ➪ Comentarios ➪ Anterior para ver los comentarios en orden inverso. Para alternar la visualización de un comentario individual, seleccione su celda y luego elija Revisar ➪ Si desea que todos los comentarios de la celda sean visibles (independientemente de la ubicación del mouse), elija Comentarios ➪ Mostrar/Ocultar comentario. Revisar ➪ Comentarios ➪ Mostrar todos los comentarios. Este comando es una palanca; selecciónelo nuevamente para ocultar todos los comentarios de la celda. Para editar el texto de un comentario, active la celda, haga clic derecho y luego elija Editar comentario en el menú contextual. O seleccione la celda y presione Shift+F2. Después de realizar los cambios, haga clic en cualquier celda.
+--------------------------------------------------
+
+=== Pagina 140 ===
+
+Para eliminar un comentario de celda, active la celda que contiene el comentario y luego elija Revisar ➪ Comentarios ➪ Eliminar. O haga clic derecho y luego elija Eliminar comentario en el menú contextual. Una tabla es un área especialmente designada de una hoja de trabajo. El propósito de una tabla es imponer alguna estructura alrededor de sus datos.
+--------------------------------------------------
+
+=== Pagina 141 ===
+
+La fila del encabezado generalmente tiene un color diferente al de las otras filas. Los nombres en el encabezado identifican las columnas. Si tiene una fórmula que hace referencia a una tabla, el encabezado determinará cómo se hace referencia a la columna. El encabezado también contiene botones de filtro. Puede usarlos para ordenar y filtrar los datos de la tabla. El cuerpo de datos es una o más filas de datos. De forma predeterminada, las filas tienen bandas, es decir, están formateadas con colores alternos. Cuando agrega nuevos datos a la tabla, el formato de los datos existentes se aplica a los nuevos datos. Por ejemplo, si una columna tiene formato Texto, esa columna en la nueva fila también tendrá formato Texto. Lo mismo ocurre con el formato condicional. No es sólo el formato lo que se aplica a los nuevos datos. Si una columna contiene una fórmula, esa fórmula se inserta automáticamente en la nueva fila. También se transferirá la validación de datos. Una de las mejores características de las tablas es que a medida que el cuerpo de los datos se expande, todo lo que haga referencia a la tabla se expandirá automáticamente. Si tuviera que basar una tabla dinámica o un gráfico en su
+--------------------------------------------------
+
+=== Pagina 142 ===
+
+En la parte inferior derecha de la última celda de la tabla se encuentra el controlador de cambio de tamaño. Puede arrastrar este controlador para cambiar el tamaño de la tabla. Al aumentar la longitud de la tabla se agregan filas en blanco, se copia el formato, las fórmulas y la validación de datos. Al aumentar el ancho de la tabla, se agregan nuevas columnas con nombres genéricos como Columna1, Columna2, etc. Puede cambiar. Disminuir el tamaño de la tabla simplemente cambia qué datos se consideran parte de la tabla. No elimina ningún dato, formato, fórmula o validación de datos. Si desea cambiar. La mayoría de las veces, creará una tabla a partir de un rango de datos existente. Sin embargo, Excel también le permite crear una tabla a partir de un rango vacío para que pueda completar los datos más tarde. El 1. Asegúrese de que el rango no contenga filas o columnas completamente en blanco; 2. Seleccione cualquier celda dentro del rango. 3. Elija Insertar ➪ Tablas ➪ Tabla (o presione Ctrl+T). Excel responde con Crear; de lo contrario, Excel no adivinará correctamente el rango de la tabla. Cuadro de diálogo Tabla, que se muestra en la Figura 4.20. Excel intenta adivinar el rango y también si la tabla tiene una fila de encabezado. La mayoría de las veces adivina correctamente. De lo contrario, haga las correcciones antes de hacer clic en Aceptar. Para crear una tabla a partir de un rango vacío, seleccione el rango y elija Insertar ➪ Tablas ➪ Tabla. Excel crea la tabla, agrega encabezados de columna genéricos (como Columna1 y Columna2) y aplica formato de tabla al rango. Casi siempre querrás reemplazar la columna genérica.
+--------------------------------------------------
+
+=== Pagina 144 ===
+
+Al ordenar una tabla se reorganizan las filas según el contenido de una columna en particular.
+--------------------------------------------------
+
+=== Pagina 145 ===
+
+Puede ordenar según cualquier número de columnas. El truco consiste en ordenar primero la columna menos significativa y luego continuar hasta que la columna más significativa se ordene al final. Por ejemplo, en
+--------------------------------------------------
+
+=== Pagina 146 ===
+
+Otra forma de realizar una clasificación de varias columnas es utilizar el cuadro de diálogo Ordenar (elija Inicio ➪ Edición ➪ Ordenar y filtrar ➪ Orden personalizado). O haga clic con el botón derecho en cualquier celda de la tabla y elija Ordenar ➪ Orden personalizado en el menú contextual. Filtrar una tabla se refiere a mostrar solo las filas que cumplen ciertas condiciones. (Las otras filas están ocultas).
+--------------------------------------------------
+
+=== Pagina 147 ===
+
+Para opciones de filtrado adicionales, seleccione Filtros de texto (o Filtros numéricos, si la columna contiene valores). Las opciones se explican por sí solas y tienes mucha flexibilidad.
+--------------------------------------------------
+
+=== Pagina 148 ===
+
+Cuando copia datos de una tabla filtrada, solo se copian los datos visibles. Los datos pegados no son una tabla, es simplemente un rango normal. Para eliminar el filtrado de una columna, haga clic en el menú desplegable en el encabezado de la fila y seleccione Borrar filtro. Si ha filtrado utilizando varias columnas, puede ser más rápido eliminar todos los filtros eligiendo Inicio ➪ Edición ➪ Ordenar y filtrar ➪ Borrar. Para agregar una o más segmentaciones, active cualquier celda de la tabla y elija Herramientas de tabla Diseño ➪ Herramientas ➪ Insertar segmentación. Excel responde con un cuadro de diálogo que muestra cada encabezado en Otra forma de filtrar una tabla es usar una o más segmentaciones.
+--------------------------------------------------
+
+=== Pagina 149 ===
+
+Coloque una marca de verificación junto a los campos que desea filtrar. Para usar una cortadora, simplemente haga clic en uno de los botones.
+--------------------------------------------------
+
+=== Pagina 150 ===
+
+Si su tabla tiene más de una segmentación, se filtra por los botones seleccionados en cada segmentación. Si su tabla tiene más de una segmentación, se filtra por los botones seleccionados en cada segmentación. Para eliminar el filtrado de una segmentación en particular, haga clic en el icono Borrar filtro en la esquina superior derecha de la segmentación.
+--------------------------------------------------
+
+=== Pagina 151 ===
+
+Seleccione cualquier celda de la tabla y elija Herramientas de tabla Diseño ➪ Estilos de tabla. A la derecha, el grupo Estilos de tabla se expande, como se muestra en la Figura 4.28. Los estilos se agrupan en tres categorías: Claro, Medio y Oscuro. Observe que obtiene una vista previa "en vivo" a medida que se mueve
+--------------------------------------------------
+
+=== Pagina 152 ===
+
+Para un conjunto diferente de opciones de color, elija Diseño de página ➪ Temas ➪ Temas para seleccionar un tema de documento diferente. Puede cambiar algunos elementos del estilo utilizando los controles de casilla de verificación en el grupo Diseño de Herramientas de tabla ➪ Opciones de estilo de tabla. Estos controles determinan si varios elementos. Si desea crear un estilo de tabla personalizado, elija Herramientas de tabla Diseño ➪ Estilos de tabla ➪ Nuevo estilo de tabla para mostrar el cuadro de diálogo Nuevo estilo de tabla que se muestra en la Figura 4.29. Puede personalizar: los estilos de tabla personalizados solo están disponibles en el libro de trabajo en el que se crearon. Sin embargo, si copia una tabla que utiliza un estilo personalizado en un libro de trabajo diferente, el estilo personalizado estará disponible en el otro libro de trabajo. y haga clic en Aceptar. Su estilo de tabla personalizado aparecerá en la galería Estilos de tabla en la categoría Personalizado.
+--------------------------------------------------
+
+=== Pagina 159 ===
+
+Estas teclas de método abreviado actúan como palanca. Por ejemplo, puede activar y desactivar la negrita repitiendo: ■Ctrl+B: Negrita ■Ctrl+I: Cursiva ■Ctrl+U: Subrayado ■Ctrl+5: Tachado presionando Ctrl+B.
+--------------------------------------------------
+
+=== Pagina 162 ===
+
+Superior Alinea el contenido de la celda con la parte superior de la celda. Esto también está disponible en la cinta. Centrar Centra el contenido de la celda verticalmente en la celda. Esto también está disponible en la cinta. Inferior Alinea el contenido de la celda con la parte inferior de la celda. Esto también está disponible en Justificar Justifica el texto verticalmente en la celda; esta opción es aplicable sólo si la celda Distribuido Distribuye el texto uniformemente verticalmente en la celda. Cinta. Esta opción es la alineación vertical predeterminada. tiene el formato de texto ajustado y utiliza más de una línea. Esta configuración se puede utilizar para aumentar el espacio entre líneas. La opción Ajustar texto muestra el texto en varias líneas de la celda, si es necesario. La opción Reducir para ajustar reduce el tamaño del texto para que se ajuste a la celda sin extenderse a la siguiente celda. Las veces que este comando resulta útil parecen ser raras.
+--------------------------------------------------
+
+=== Pagina 163 ===
+
+Puede fusionar cualquier cantidad de celdas que ocupen cualquier cantidad de filas y columnas. De hecho, puede fusionar los 17 mil millones de celdas de una hoja de cálculo en una sola celda, aunque probablemente no haya ninguna. El rango que desea fusionar debe estar vacío, excepto la celda superior izquierda. Otras celdas que desea fusionar no están vacías, Excel muestra una advertencia. Si continúa, se eliminarán todos los datos (excepto los de la celda superior izquierda). El control Inicio ➪ Alineación ➪ Fusionar y centrar contiene una lista desplegable con estos Fusionar transversalmente. Cuando se selecciona un rango de varias filas, este comando crea varias celdas fusionadas. Fusiona las celdas seleccionadas sin aplicar el atributo Centro. Separar celdas Separa las celdas seleccionadas. Opciones adicionales: celdas: una para cada fila.
+--------------------------------------------------
+
+=== Pagina 164 ===
+
+Desde la lista desplegable Inicio ➪ Alineación ➪ Orientación, puede aplicar los ángulos de texto más comunes. Para obtener más control, utilice la pestaña Alineación del cuadro de diálogo Formato de celdas.
+--------------------------------------------------
+
+=== Pagina 168 ===
+
+Puede aplicar formato condicional a una celda para que la celda se vea diferente según su contenido. El formato condicional es una herramienta útil para visualizar datos numéricos. En algunos Para aplicar una regla de formato condicional a una celda o rango, seleccione las celdas y luego use uno de los comandos de la lista desplegable Inicio ➪ Estilos ➪ Formato condicional para especificar una regla. Las opciones son las siguientes: Reglas de resaltado de celdas Los ejemplos incluyen resaltar celdas que son mayores que una parte. Los ejemplos de reglas superiores/inferiores incluyen resaltar los diez elementos principales, los elementos en el bot. Barras de datos Aplica barras gráficas directamente en las celdas, proporcionales al valor de la celda. Escalas de color Aplica el color de fondo, proporcional al valor de la celda. Conjuntos de iconos Muestra iconos directamente en las celdas. Los iconos dependen del valor de la celda. Nueva regla Le permite especificar otras reglas de formato condicional, incluidas reglas basadas en Borrar reglas Elimina todas las reglas de formato condicional de las celdas seleccionadas. Administrar reglas Muestra el cuadro de diálogo Administrador de reglas de formato condicional en el que un valor particular está entre dos valores, contiene una cadena de texto específica, contiene una fecha o está en un 20 por ciento, y los elementos que están por encima del promedio. en una fórmula lógica. usted crea nuevas reglas de formato condicional, edita reglas o elimina reglas. duplicado. El formato condicional de barras de datos muestra barras horizontales directamente en la celda. La longitud de la barra se basa en el valor de la celda en relación con los demás valores del rango.
+--------------------------------------------------
+
+=== Pagina 169 ===
+
+Excel proporciona acceso rápido a 12 estilos de barras de datos a través de Inicio ➪ Estilos ➪ Formato condicional ➪ Barras de datos. Para opciones adicionales, haga clic en la opción Más reglas, que
+--------------------------------------------------
+
+=== Pagina 170 ===
+
+La opción de formato condicional de escala de color varía el color de fondo de una celda según el valor de la celda en relación con otras celdas del rango.
+--------------------------------------------------
+
+=== Pagina 171 ===
+
+Otra opción de formato condicional es mostrar un icono en la celda. El icono mostrado depende del valor de la celda. aplique al rango seleccionado eligiendo Inicio ➪ Estilos ➪ Formato condicional ➪ Escalas de color.
+--------------------------------------------------
+
+=== Pagina 172 ===
+
+Para asignar un conjunto de iconos a un rango, seleccione las celdas y elija Inicio ➪ Estilos ➪ Formato condicional ➪ Conjuntos de iconos. Excel proporciona 20 conjuntos de iconos entre los que puede elegir. El número
+--------------------------------------------------
+
+=== Pagina 174 ===
+
+Los formatos gráficos condicionales se utilizan generalmente para mostrar una celda en relación con otras celdas cercanas. Las reglas basadas en fórmulas generalmente se aplican a una celda de forma independiente. La misma regla puede aplicarse a muchas celdas, pero cada celda se considera de forma independiente. Los controles de cinta son atajos comúnmente utilizados para reglas basadas en fórmulas. Si elige Inicio ➪ Estilos ➪ Formato condicional ➪ Nueva regla, Excel muestra la Nueva regla de formato. La última entrada en el cuadro de diálogo Nueva regla de formato es Usar una fórmula para determinar qué celdas formatear. Esta es la entrada que eliges si ninguno de los otros atajos hace lo que quieres. Es referencia relativa A1
+--------------------------------------------------
+
+=== Pagina 175 ===
+
+referencia absoluta;
+--------------------------------------------------
+
+=== Pagina 177 ===
+
+referencia mixta
+--------------------------------------------------
+
+=== Pagina 179 ===
+
+Puede especificar tantas reglas como desee haciendo clic en el botón Nueva regla. Las celdas pueden incluso El cuadro de diálogo Administrador de reglas de formato condicional es útil para comprobar, editar, eliminar y agregar formatos condicionales. Primero seleccione cualquier celda del rango que contenga formato condicional. Luego elija Inicio ➪ Estilos ➪ Formato condicional ➪ Administrar reglas. La información se almacena en una celda. Como resultado, cuando copia una celda que contiene formato condicional, también copia el formato condicional. Para eliminar solo el formato condicional (y dejar el resto del formato intacto), elija Cuando presiona Eliminar para eliminar el contenido de una celda, no elimina el condicional Inicio ➪ Estilos ➪ Formato condicional ➪ Borrar reglas y elige uno de los formatos disponibles para la celda (si corresponde). Para eliminar todos los formatos condicionales (así como todas las demás opciones de formato de celda), seleccione la celda y luego elija Inicio ➪ Edición ➪ Borrar ➪ Borrar formatos. O elija Inicio ➪ Edición ➪ Borrar ➪ Borrar todo para eliminar el contenido de la celda y el formato condicional. 1. Elija Inicio ➪ Edición ➪ Buscar y seleccionar ➪ Ir a Especial. El cuadro de diálogo Ir a especial 2. En el cuadro de diálogo Ir a especial, seleccione la opción Formatos condicionales. 3. Para seleccionar todas las celdas de la hoja de trabajo que contienen formato condicional, seleccione 4. Haga clic en Aceptar. Excel selecciona las celdas por usted. Aparece el cuadro. Todas las opciones; para seleccionar solo las celdas que contienen el mismo formato condicional que la celda activa, seleccione la opción Mismo.
+--------------------------------------------------
+
+=== Pagina 242 ===
+
+Utilice fórmulas en sus hojas de cálculo de Excel para calcular los resultados a partir de los datos almacenados en la hoja de cálculo. Cuando los datos cambian, las fórmulas calculan resultados actualizados sin ningún esfuerzo adicional de su parte. Una fórmula consta de un código especial ingresado en una celda. Realiza un cálculo de algún tipo y devuelve un resultado que se muestra en la celda. Las fórmulas utilizan una variedad de operadores y hojas de cálculo. Una fórmula siempre comienza con un signo igual y puede contener cualquiera de estos elementos: ■Operadores matemáticos, como + (para suma) y * (para multiplicación) ■Referencias de celdas (incluidas celdas y rangos con nombre) ■Valores o texto ■Funciones de hoja de cálculo (como SUMA y PROMEDIO)
+--------------------------------------------------
+
+=== Pagina 243 ===
+
+Después de ingresar una fórmula, la celda muestra el resultado calculado de la fórmula. Sin embargo, la fórmula misma aparece en la barra de fórmulas cuando selecciona la celda. Las fórmulas de Excel admiten una variedad de operadores. Los operadores son símbolos que indican qué operación matemática (o lógica) desea que realice la fórmula. La tabla 9.1 enumera los operadores utilizados en las fórmulas.
+--------------------------------------------------
+
+=== Pagina 244 ===
+
+Precedencia de operadores en fórmulas de Excel
+--------------------------------------------------
+
+=== Pagina 245 ===
+
+Puede utilizar paréntesis para anular el orden de precedencia integrado de Excel. Las expresiones entre paréntesis siempre se evalúan primero. Por ejemplo, la siguiente fórmula utiliza paréntesis. Es una buena práctica utilizar paréntesis incluso cuando no sean estrictamente necesarios. Hacerlo ayuda a aclarar qué pretende hacer la fórmula. Por ejemplo, la siguiente fórmula deja perfectamente claro que B3 debe multiplicarse
+--------------------------------------------------
+
+=== Pagina 246 ===
+
+Cada paréntesis izquierdo, por supuesto, debe tener un paréntesis derecho correspondiente. Hay muchos niveles de paréntesis anidados, a veces puede resultar difícil mantenerlos rectos. Si los paréntesis no coinciden, Excel muestra un mensaje explicando el problema y no le permitirá ingresar la fórmula. En algunos casos, si su fórmula contiene paréntesis que no coinciden, Excel puede proponer una corrección a su fórmula.
+--------------------------------------------------
+
+=== Pagina 248 ===
+
+En los ejemplos anteriores, habrás notado que todas las funciones usaban paréntesis. La información dentro del paréntesis es la lista de argumentos. Las funciones varían en la forma en que utilizan los argumentos. Dependiendo de lo que tiene que hacer, una función puede usar uno de los siguientes: ■Sin argumentos ■Un argumento ■Un número fijo de argumentos ■Un número indeterminado de argumentos ■Argumentos opcionales Si una función usa más de un argumento, separe cada argumento con una coma. Sin embargo, es flexible cuando se trata de argumentos de función. Un argumento puede consistir en una referencia de celda, valores literales, cadenas de texto literales, expresiones e incluso otras funciones. Aquí Referencia de celda: =SUM(A1:A24) Valor literal: =SQRT(121) Cadena de texto literal: =PROPER(“john f. smith”) Expresión: =SQRT(183+12) Otras funciones: =SQRT(SUM(A1:A24))
+--------------------------------------------------
+
+=== Pagina 251 ===
+
+escribe un signo igual (=) seguido de la fórmula. Aunque puede ingresar fórmulas escribiendo la fórmula completa, Excel proporciona otro método para ingresar fórmulas que generalmente es más fácil, más rápido y menos propenso a errores. 1. Seleccione la celda A3. 2. Escriba un signo igual (=) para comenzar la fórmula. Observe que Excel muestra Enter en 3. Presione la flecha hacia arriba dos veces. Al presionar esta tecla, Excel muestra un borde discontinuo. 4. Escriba un signo más (+). Un borde de color sólido reemplaza el borde discontinuo de A1 y 5. Presione la flecha hacia arriba nuevamente. El borde discontinuo abarca la celda A2 y agrega esa 6. Presione Entrar para completar la fórmula. la barra de estado (abajo a la izquierda de la pantalla). alrededor de la celda A1, y la referencia de celda aparece en la celda A3 y en la barra de fórmulas. En Enter vuelve a aparecer en la barra de estado. dirección de la celda a la fórmula. Además, Excel muestra Punto en la barra de estado. ■Seleccione el nombre de la lista desplegable. Para utilizar este método, debe saber ■Presionar F3. Aparece el cuadro de diálogo Pegar nombre. Seleccione el nombre de la lista y ■Haga clic en el menú desplegable Usar en fórmula en la pestaña Fórmulas (grupo Nombres definidos). al menos el primer carácter del nombre. Cuando ingrese la fórmula, escriba y luego haga clic en Aceptar (o simplemente haga doble clic en el nombre). Excel ingresa el nombre en su formulario. Este comando está disponible mientras está en modo de edición y le permite seleccionar. Hay tres formas disponibles de insertar un nombre en una fórmula: primer carácter y luego seleccione el nombre de la lista desplegable. mula. Si no hay nombres definidos, presionar F3 no tiene ningún efecto. de los nombres de rango disponibles.
+--------------------------------------------------
+
+=== Pagina 252 ===
+
+La forma más sencilla de ingresar una función en una fórmula es usar Autocompletar fórmula. Otra forma de insertar una función es usar herramientas en el grupo Biblioteca de funciones en la pestaña Fórmulas de la cinta (consulte la Figura 9.3). Este método es especialmente útil si tiene la pestaña Fórmulas en la cinta (consulte la Figura 9.3). Este método es especialmente útil si no recuerda qué función necesita. Al ingresar una fórmula, haga clic en la categoría de función. Otra forma de insertar una función en una fórmula es usar el cuadro de diálogo Insertar función (Figura 9.4). Puede acceder a este cuadro de diálogo de varias maneras: ■Elija Fórmulas ➪ Biblioteca de funciones ➪ Insertar función. ■Utilice el comando Insertar función, que aparece en la parte inferior de cada menú desplegable. ■Haga clic en el icono Insertar función, que está directamente a la izquierda de la barra de fórmulas. Esto ■Presione Mayús+F3. lista en el grupo Fórmulas ➪ Biblioteca de funciones. El botón muestra fx. El cuadro de diálogo Insertar función muestra una lista desplegable de categorías de funciones. Si no está seguro de qué función necesita, puede buscar la función adecuada utilizando el campo Buscar una función en la parte superior del cuadro de diálogo.
+--------------------------------------------------
+
+=== Pagina 255 ===
+
+La mayoría de las fórmulas que crea incluyen referencias a celdas o rangos. el resultado de la fórmula cambia para reflejar el nuevo valor. Si no usó referencias en sus fórmulas, necesitará editar las fórmulas mismas para cambiar los valores utilizados en las fórmulas.
+--------------------------------------------------
+
+=== Pagina 256 ===
+
+puede usar tres tipos de referencias: Relativa Las referencias de filas y columnas pueden cambiar cuando copia la fórmula a Absoluta Las referencias de filas y columnas no cambian cuando copia la fórmula porque Mixta La referencia de fila o columna es relativa y la otra es absoluta. Solo otra celda porque las referencias en realidad están desplazadas de la fila y columna actuales. la referencia es a una dirección de celda real. Una referencia absoluta utiliza dos signos de dólar en una de las partes de la dirección que es absoluta (por ejemplo, $A4 o A$4). De forma predeterminada, Excel crea referencias de celda relativas en las fórmulas. dirección: uno para la letra de la columna y otro para el número de fila (por ejemplo, $A$5).
+--------------------------------------------------
+
+=== Pagina 258 ===
+
+Las fórmulas también pueden hacer referencia a celdas de otras hojas de trabajo, y las hojas de trabajo ni siquiera tienen que estar en el mismo libro. Excel usa un tipo especial de notación para manejar estos tipos de =NombreDeHoja!DirecciónCelda Para usar una referencia a una celda en otra hoja de cálculo en el mismo libro, use este formato:
+--------------------------------------------------
+
+=== Pagina 259 ===
+
+=[Nombre del libro de trabajo]Nombre de la hoja!Dirección de celda Para hacer referencia a una celda en un libro de trabajo diferente, use este formato: Si el nombre del libro de trabajo en la referencia incluye uno o más espacios, debe encerrarlo (y el nombre de la hoja y los corchetes) entre comillas simples. Por ejemplo, aquí está abierto. Sin embargo, si el libro está cerrado, debe agregar la ruta completa a la referencia para que Excel pueda encontrarla. A continuación se muestra un ejemplo: =A1*'C:\Mis documentos\[Presupuesto para 2019.xlsx]Hoja1'!A1 Un archivo vinculado también puede residir en otro sistema al que se pueda acceder en su red corporativa. ='\\DataServer\files\[presupuesto.xlsx]Hoja1'!$D$7
+--------------------------------------------------
+
+=== Pagina 263 ===
+
+Por supuesto, puede usar referencias de celda estándar para hacer referencia a los datos de una tabla, pero usar el nombre de la tabla y los encabezados de las columnas tiene una clara ventaja: los nombres se ajustan automáticamente si el tamaño de la tabla cambia al agregar o eliminar filas. Además, las fórmulas que utilizan nombres de tablas y encabezados de columnas se ajustarán automáticamente si cambia el nombre de la tabla o le da un nuevo nombre a una columna.
+--------------------------------------------------
+
+=== Pagina 264 ===
+
+A veces, cuando ingresa una fórmula, Excel muestra un valor que comienza con una almohadilla (#). Esta es una señal de que la fórmula devuelve un valor de error. Tienes que corregir el
+--------------------------------------------------
+
+=== Pagina 265 ===
+
+Valores de error de Excel Las fórmulas pueden devolver un valor de error si una celda a la que hacen referencia tiene un valor de error. Esto se conoce como efecto dominó: un único valor de error puede llegar a muchas otras celdas que contienen fórmulas que dependen de esa celda en particular. que la fórmula que acaba de ingresar dará como resultado una referencia circular. Una referencia circular ocurre cuando una fórmula hace referencia a su propia celda, ya sea directa o indirectamente. Por ejemplo,
+--------------------------------------------------
+
+=== Pagina 266 ===
+
+El cálculo podría continuar para siempre. Cuando recibe el mensaje de referencia circular después de ingresar una fórmula, Excel le ofrece dos opciones: ■ Haga clic en Aceptar para ingresar la fórmula tal como está. ■Haga clic en Ayuda para ver una pantalla de ayuda sobre referencias circulares. ■Cuando realiza un cambio (ingresa o edita datos o fórmulas, por ejemplo), Excel calcula ■Si Excel está en medio de un cálculo largo, suspende temporalmente el cálculo. ■Las fórmulas se evalúan en una secuencia natural. En otras palabras, si una fórmula en la celda calcula inmediatamente aquellas fórmulas que dependen de datos nuevos o editados. Culación cuando necesita realizar otras tareas de la hoja de trabajo; La reanudación del cálculo D12 depende del resultado de una fórmula en la celda D24, Excel calcula la celda D24 antes de que haya terminado con las otras tareas de la hoja de cálculo. calculando la celda D12. Automático. En el modo de cálculo automático (que es el modo predeterminado), Excel sigue estas reglas cuando calcula su hoja de cálculo: establezca el valor de Excel
+--------------------------------------------------
+
+=== Pagina 267 ===
+
+Cuando trabaja en el modo de cálculo manual, Excel muestra Calcular en el estado F9: Calcula las fórmulas en todos los libros abiertos. barra cuando tenga fórmulas no calculadas. Puede utilizar las siguientes teclas de método abreviado para Shift+F9: Calcula solo las fórmulas en la hoja de trabajo activa. Otras hojas de trabajo recalculan las fórmulas: el mismo libro no se calcula. Ctrl+Alt+F9: fuerza un recálculo completo de todas las fórmulas. Ctrl+Alt+Shift+F9: reconstruye el árbol de dependencias de cálculo y realiza un recálculo completo. modo de cálculo a Manual, lo que puede hacer eligiendo Fórmulas ➪ Cálculo ➪ Opciones de cálculo ➪ Manual.
+--------------------------------------------------
+
+=== Pagina 269 ===
+
+Esta sección describe un concepto conocido como intersecciones de rangos (celdas individuales que dos rangos tienen en común). Excel utiliza un operador de intersección (un carácter de espacio) para determinar las referencias superpuestas en dos rangos. La figura 9.14 muestra un ejemplo sencillo.
+--------------------------------------------------
+
+=== Pagina 270 ===
+
+TABLA 9.4 Operadores de referencia para rangos Operador: (dos puntos), (coma) Espacio Qué hace Especifica un rango. Especifica la unión de dos rangos. Este operador combina múltiples referencias de rango. Especifica la intersección de dos rangos. Este operador produce celdas que se agrupan en una única referencia. común a dos rangos.
+--------------------------------------------------
+
+=== Pagina 271 ===
+
+Para hacer referencia a una sola celda, utilice el operador de intersección. Vaya a cualquier celda en blanco e ingrese =Cuarto1 Oeste. Esta fórmula devuelve el valor del primer trimestre para la región Oeste. En otras palabras, la siguiente fórmula: devuelve el valor que existe donde el rango Quarter1 se cruza con el rango Oeste.
+--------------------------------------------------
+
+=== Pagina 272 ===
+
+Cuando copia una fórmula, Excel ajusta sus referencias de celda cuando pega la fórmula en una ubicación diferente. A veces es posible que desees hacer una copia exacta de la fórmula. Unidireccional 1. Haga doble clic en A1 (o presione F2) para ingresar al modo de edición. 2. Arrastre el mouse para seleccionar la fórmula completa. Puede arrastrar de izquierda a derecha o 3. Elija Inicio ➪ Portapapeles ➪ Copiar (o presione Ctrl+C). Esto copia el texto seleccionado. 4. Presione Esc para salir del modo de edición. 5. Seleccione la celda A2. 6. Elija Inicio ➪ Portapapeles ➪ Pegar (o presione Ctrl+V) para pegar el texto en la celda de derecha a izquierda. Para seleccionar la fórmula completa con el teclado, presione Fin, siga (que se convertirá en la fórmula copiada) al Portapapeles. A2. activado por Shift+Home. como texto. Puedes hacer esto de varias maneras. Aquí hay un ejemplo paso a paso de cómo hacer una copia exacta de la fórmula en A1 y copiarla en A2:
+--------------------------------------------------
+
+=== Pagina 273 ===
+
+1. Seleccione A1:A20. 2. Elija Inicio ➪ Portapapeles ➪ Copiar (o presione Ctrl+C). 3. Elija Inicio ➪ Portapapeles ➪ Pegar valores (V). 4. Presione Esc para cancelar el modo Copiar. Cada vez que presiona Enter, puede convertir las fórmulas en valores. Simplemente sigue estos pasos:
+--------------------------------------------------
+
+=== Pagina 274 ===
+
+Calcular el porcentaje del desempeño real del objetivo en comparación con un objetivo establecido. La matemática involucrada en este cálculo es simple: divide el resultado real por el objetivo. Esto le dará un valor porcentual que representa cuánto del objetivo es real por objetivo. Esto le dará un valor porcentual que representa cuánto se ha logrado del objetivo. Por ejemplo, si tu objetivo es vender 100 widgets y vendes 80 widgets, tu
+--------------------------------------------------
+
+=== Pagina 275 ===
+
+si necesita comparar datos reales con un objetivo común, la referencia de celda al objetivo común se ingresa como una referencia absoluta =C6/$B$3
+--------------------------------------------------
+
+=== Pagina 276 ===
+
+Una varianza es un indicador de la diferencia entre un número y otro. Entonces, ¿qué es una variación porcentual? Esta es esencialmente la diferencia porcentual entre el número de referencia (120) y el nuevo número (150). El porcentaje de variación se calcula restando el número de referencia del nuevo número y luego dividiendo ese resultado por el número de referencia. En este ejemplo, (150-120)/120 = 25%. La varianza porcentual indica que =(D4-C4)/C4 pluma, obtendríamos un resultado erróneo. Envolver la primera parte de la fórmula entre paréntesis garantiza que Excel realice la resta antes de la división. Una fórmula alternativa para calcular la variación porcentual es simplemente dividir las ventas del año actual por las ventas del año anterior y luego restar 1. Debido a que Excel realiza operaciones de división =D4/C4-1
+--------------------------------------------------
+
+=== Pagina 277 ===
+
+una variación porcentual. Esto funciona muy bien en la mayoría de los casos. Sin embargo, cuando el valor de referencia es cero o menos, la fórmula falla. =(C4-B4)/ABS(B4) La función ABS de Excel devuelve el valor absoluto de cualquier número que le pase. =ABS(-100) en la celda A1 devolvería 100. La función ABS esencialmente convierte cualquier número en un número no negativo. El uso de ABS en esta fórmula anula el efecto de lo negativo.
+--------------------------------------------------
+
+=== Pagina 278 ===
+
+La distribución porcentual es una medida de cómo se distribuye una métrica (como los ingresos totales) entre los componentes que componen el total. Como puede ver en la Figura 10.5, puede usar la función SUMA en lugar de una celda dedicada a mantener un valor total. La función SUMA suma todos los números que le pases.
+--------------------------------------------------
+
+=== Pagina 280 ===
+
+Para aumentar un número en un porcentaje, multiplique la cantidad original por 1 más el porcentaje de aumento. En el ejemplo de la Figura 10.8, el Producto A obtiene un aumento del 10%. Entonces, multiplique el precio original. Para disminuir un número por un monto porcentual, multiplique el monto original por 1, que es el descuento porcentual. En el ejemplo de la Figura 10.8, el cliente A obtiene un descuento del 20%. luego multiplica el original
+--------------------------------------------------
+
+=== Pagina 281 ===
+
+Software como Excel simplemente te da un error cuando intentas dividir por cero. En Excel, cuando divides un número entre cero, obtienes el #DIV/0. error. La función SI tiene tres argumentos: la condición, qué hacer si la condición es verdadera y qué hacer si la condición es falsa. Los argumentos de condición deben estructurarse para devolver VERDADERO o FALSO,
+--------------------------------------------------
+
+=== Pagina 282 ===
+
+Pasar 0 como segundo argumento le indica a Excel que elimine todos los decimales y redondee. La función REDONDEAR de Excel se utiliza para redondear un número determinado a un número específico de dígitos. La porción entera del número basada en el primer decimal. Por ejemplo, esta función REDONDEAR de fórmula toma dos argumentos: el valor original y el número de dígitos para redondear. Pasar un 1 como segundo argumento le indica a Excel que redondee a un decimal según el valor del segundo decimal. Por ejemplo, esta fórmula redondea a 94,5: también puede pasar un número negativo al segundo argumento, indicando a Excel que redondee según los valores a la izquierda del punto decimal. La siguiente fórmula, por ejemplo, devuelve 90: Puede forzar el redondeo en una dirección particular usando la función REDONDEAR HACIA ARRIBA o REDONDEAR HACIA ABAJO. Esta fórmula ROUNDDOWN redondea 94,45 hacia abajo a 94: =ROUNDDOWN(94,45,0) Esta fórmula REDONDEAR hacia arriba redondea 94,45 hasta 95: =REDONDEAR(94,45,0).
+--------------------------------------------------
+
+=== Pagina 283 ===
+
+La función TECHO redondeará un número al múltiplo de importancia más cercano que le pase. Esto resulta útil cuando necesita anular el proceso de redondeo estándar. La función FLOOR funciona de la misma manera excepto que fuerza un redondeo hacia abajo al significado más cercano. La siguiente función de ejemplo redondea 123,19 al níquel más cercano,
+--------------------------------------------------
+
+=== Pagina 285 ===
+
+Excel proporciona varias funciones para contar los valores en un rango: CONTAR, CONTARA y CONTAR EN BLANCO. Cada una de estas funciones proporciona un método diferente de contar basado
+--------------------------------------------------
+
+=== Pagina 286 ===
+
+La función CONTAR contará solo valores numéricos en un rango determinado. Solo requiere un único argumento al que se le pasa un rango de celdas. Por ejemplo, esta fórmula contará. La función CONTARA contará cualquier celda que no esté en blanco. Esta función se puede utilizar al contar celdas que contienen cualquier combinación de números y texto. Solo requiere un único argumento al que se le pasa un rango de celdas. Por ejemplo, esta fórmula contará todas las celdas en blanco. La función CONTAR EN BLANCO contará solo las celdas en blanco en un rango determinado. Solo requiere un único argumento al que se le pasa un rango de celdas. Por ejemplo, esta fórmula contará todos
+--------------------------------------------------
+
+=== Pagina 287 ===
+
+La función CONVERTIR requiere tres argumentos: un valor numérico, la unidad desde la que está convirtiendo y la unidad a la que está convirtiendo. Por ejemplo, para convertir 100 millas en kilómetros, observará los códigos de conversión para cada unidad de medida. Estos códigos son específicos y deben ingresarse exactamente como Excel espera verlos. Ingresar una fórmula CONVERTIR
+--------------------------------------------------
+
+=== Pagina 289 ===
+
+Muchas de las funciones de texto no se limitan al texto: también pueden operar con celdas que contienen valores numéricos. Descubrirá que Excel es muy flexible cuando se trata de
+--------------------------------------------------
+
+=== Pagina 290 ===
+
+Este ejemplo ilustra el uso del operador comercial (&). El operador comercial le dice a Excel que concatene valores entre sí. Como puede ver en la Figura 11.1, Excel 2019 presenta la nueva función TEXTJOIN para proporcionar una manera más fácil de manejar escenarios más complejos de TEXTJOIN (delimitador, ignorar_valores_empty, texto). Esta nueva función requiere sólo unos pocos argumentos: El primer argumento es el carácter que desea colocar entre las celdas que está uniendo. Si escribe una coma como "delimitador", la función colocará una coma entre El segundo argumento determina qué hacer cuando Excel encuentra una celda vacía. Puede establecer este argumento en VERDADERO, indicando a Excel que ignore las celdas vacías, o establecerlo en FALSO. La mejor manera de pensar en este argumento es cómo desea que Excel coloque el delimitador elegido. Establecer este argumento en VERDADERO garantizará que Excel no agregue un delimitador adicional. Establecer este argumento en VERDADERO garantizará que Excel no agregue comas adicionales entre el texto unido debido a celdas en blanco en el rango seleccionado. El tercer argumento es el texto a unir. Puede ser una cadena de texto simple o puede ser una matriz de cadenas como un rango de celdas. La función TEXTJOIN requiere al menos un valor o referencia de celda en este argumento.
+--------------------------------------------------
+
+=== Pagina 291 ===
+
+que un puntero al texto que desea convertir. Como puede imaginar, la función SUPERIOR convierte el texto a mayúsculas, la función INFERIOR convierte el texto a minúsculas y la función APROPIADA convierte el texto a mayúsculas (la primera letra de cada palabra está en mayúscula).
+--------------------------------------------------
+
+=== Pagina 292 ===
+
+La función IZQUIERDA le permite extraer una cantidad determinada de caracteres de la izquierda de una cadena de texto determinada. La función IZQUIERDA requiere dos argumentos: la cadena de texto que está evaluando y la cantidad de caracteres que necesita extraer de la izquierda de la cadena de texto. En este caso, extraemos el carácter izquierdo del texto en la celda C4. Somos Al igual que la función IZQUIERDA, la función DERECHA requiere dos argumentos: el texto que está evaluando y la cantidad de caracteres que necesita extraer de la derecha de la cadena de texto. En este caso, sin embargo, no podemos simplemente darle a la función DERECHA un código fijo. La función LEN se usa para obtener la longitud completa de la cadena de texto.
+--------------------------------------------------
+
+=== Pagina 293 ===
+
+La función TRIM es relativamente sencilla. Simplemente proporcione algo de texto y eliminará todos los espacios del texto excepto los espacios simples entre palabras. Es importante tener en cuenta que la función TRIM fue diseñada para recortar sólo el carácter de espacio ASCII del texto. El carácter de espacio ASCII tiene un valor de código de 32. En Unicode
+--------------------------------------------------
+
+=== Pagina 294 ===
+
+La función IZQUIERDA le permite extraer una cantidad determinada de caracteres de la izquierda de una cadena de texto determinada. La función IZQUIERDA requiere dos argumentos: el texto que está evaluando y la cantidad de caracteres que necesita extraer de la izquierda de la cadena de texto. La función DERECHA le permite extraer un número determinado de caracteres de la derecha de una cadena de texto determinada. La función DERECHA requiere dos argumentos: la cadena de texto que está evaluando y la cantidad de caracteres que necesita extraer de la derecha de la cadena de texto. En este ejemplo, extraemos los ocho caracteres correctos del valor. La función MID le permite extraer una cantidad determinada de caracteres del medio de una cadena de texto determinada. La función MID requiere tres argumentos: la cadena de texto que está evaluando, la posición del carácter en la cadena de texto desde donde iniciar la extracción y la cantidad de caracteres que necesita extraer. En este ejemplo, estamos comenzando
+--------------------------------------------------
+
+=== Pagina 295 ===
+
+Con la función ENCONTRAR, puede obtener el número de posición de un carácter en particular y usar esa posición de carácter en otras operaciones. La función ENCONTRAR tiene dos argumentos obligatorios. El primer argumento es el texto que desea encontrar. El segundo argumento es el texto que desea buscar. De forma predeterminada, la función ENCONTRAR devolverá el número de posición del carácter que está intentando encontrar. Si el texto que está buscando contiene más de uno de sus caracteres de búsqueda, la función ENCONTRAR devolverá el número de posición de los primeros encuentros.
+--------------------------------------------------
+
+=== Pagina 296 ===
+
+personaje que estás buscando. Si desea el número de posición de la segunda instancia, puede utilizar el argumento opcional Start_Num. Este argumento le permite especificar la posición del carácter en la cadena de texto para iniciar la búsqueda.
+--------------------------------------------------
+
+=== Pagina 297 ===
+
+donde te encuentras con la molesta peculiaridad del apóstrofo S ('S) que obtienes con la función ADECUADA. Para ver lo que queremos decir, ingrese esta fórmula en Excel: Esta fórmula está destinada a convertir el texto dado en mayúsculas y minúsculas (donde la primera letra de cada palabra está en mayúscula). El resultado real de la fórmula es este: Nuestra fórmula utiliza la función SUSTITUIR, que requiere tres argumentos: el texto de destino, el texto antiguo que desea reemplazar y el texto nuevo que se usará como reemplazo. Esto puede parecer una locura, pero aquí existe algún método. La función ADECUADA esencialmente pondrá en mayúscula cualquier letra que venga directamente después de un símbolo. Aquí, somos trucos.
+--------------------------------------------------
+
+=== Pagina 300 ===
+
+La función LIMPIAR elimina los caracteres no imprimibles de cualquier texto que le pase.
+--------------------------------------------------
+
+=== Pagina 302 ===
+
+Usando la función TEXTO, puede aplicar el formato necesario sobre la marcha. La función TEXTO requiere dos argumentos: un valor y un formato Excel válido. Puede aplicar cualquier formato que desee a un número siempre que sea un formato que Excel reconozca. Para
+--------------------------------------------------
+
+=== Pagina 303 ===
+
+La función DÓLAR tiene dos argumentos básicos: el valor numérico y el número de decimales que desea mostrar. Función DÓLAR. Esta función aplica el formato de moneda regional al texto dado.
+--------------------------------------------------
+
+=== Pagina 304 ===
+
+Para Excel, una fecha es simplemente un número. Más precisamente, una fecha es un número de serie que representa el número de días desde la fecha ficticia del 0 de enero de 1900. Un número de serie de 1 corresponde al 1 de enero de 1900; un número de serie 2 corresponde al 2 de enero de 1900; etcétera. Este sistema permite crear fórmulas que realizan cálculos con fechas. Por ejemplo, puedes crear un
+--------------------------------------------------
+
+=== Pagina 305 ===
+
+Excel admite fechas desde el 1 de enero de 1900 hasta el 31 de diciembre de 9999 (número de serie = 2.958.465). Para ver un número de serie de fecha como una fecha, debe formatear la celda como una fecha. Elija Inicio ➪ Número ➪ Formato de número. Este control desplegable le proporciona dos formatos de fecha. Para Puede ingresar una fecha directamente como número de serie (si conoce el número de serie) y luego formatearla como fecha. Más a menudo, ingresa una fecha utilizando cualquiera de los varios formatos de fecha reconocidos. Excel convierte automáticamente su entrada en el número de serie de fecha correspondiente (que utiliza para los cálculos) y aplica el formato de fecha predeterminado a la celda para que se muestre como una fecha real en lugar de como un número de serie críptico.
+--------------------------------------------------
+
+=== Pagina 306 ===
+
+formato. La barra de fórmulas no muestra el número de serie de la fecha. Si necesita averiguar el número de serie de una fecha en particular, formatee la celda con el formato General.
+--------------------------------------------------
+
+=== Pagina 308 ===
+
+Puede formatear fechas y horas seleccionando las celdas y luego usando la pestaña Número de la pestaña. Tiene una gran flexibilidad para formatear celdas que contienen fechas y horas. Para el cuadro de diálogo Formato de celdas. Para mostrar este cuadro de diálogo, haga clic en el icono del iniciador del cuadro de diálogo. Por ejemplo, puede formatear la celda para mostrar solo la parte de fecha, solo la parte de hora o ambas partes, fecha y hora. Excel tiene algunos problemas cuando se trata de fechas.
+--------------------------------------------------
+
+=== Pagina 309 ===
+
+Aunque el año 1900 no fue bisiesto, Excel lo trata como tal. Sin embargo, si escribe 29/02/1901, Excel lo interpreta correctamente como un error y no lo convierte en una fecha. En cambio, simplemente convierte la entrada de la celda en una cadena de texto. La única forma de trabajar con fechas anteriores a 1900 es ingresar la fecha en una celda como texto. Usar texto como fechas funciona en algunas situaciones, pero el problema principal es que no se puede realizar manipulación en una fecha ingresada como texto. Por ejemplo, no puedes cambiar su
+--------------------------------------------------
+
+=== Pagina 310 ===
+
+Los años de dos dígitos entre 00 y 29 se interpretan como fechas del siglo XXI, y los años de dos dígitos entre 30 y 99 se interpretan como fechas del siglo XX. Por ejemplo, si ingresa 15/12/28, Excel interpreta su entrada como 15 de diciembre de 2028. Pero si ingresa 15/12/30, Excel lo ve como 15 de diciembre de 1930, porque Windows usa un año límite predeterminado de 2029. Puede mantener el valor predeterminado tal como está o cambiarlo a través del Panel de control de Windows. En el cuadro de diálogo Región, haga clic en el botón Configuración adicional para mostrar el cuadro de diálogo Personalizar formato. Seleccione la pestaña Fecha y luego especifique un año diferente. =HOY() La función AHORA() devuelve la fecha actual junto con la hora actual: =AHORA() En lugar de escribir la fecha y hora actuales, puede utilizar una de dos funciones de Excel. La función HOY devuelve la fecha actual: fecha y hora del sistema. La función HOY asume las 12 PM como hora, mientras que la función AHORA devuelve la hora real.
+--------------------------------------------------
+
+=== Pagina 311 ===
+
+Es importante tener en cuenta que ambas funciones se volverán a calcular automáticamente cada vez que cambie o abra su libro, así que no utilice estas funciones como marca de tiempo de registro. Función FECHASI. hace que calcular cualquier tipo de comparaciones de fechas sea muy sencillo. La función DATEDIF calcula el número de días, meses o años entre dos fechas. Requiere tres argumentos: una fecha de inicio, una fecha de finalización y una unidad de tiempo. TABLA 12.3 Códigos de unidades de tiempo DATEDIF Código "y" "m" "d" "md" "ym" "yd" Qué devuelve El número de años completos en el período. El número de meses completos del período. El número de días del período. La diferencia entre los días en fecha_inicial y fecha_final. Los meses y años La diferencia entre los meses en fecha_inicial y fecha_final. Los días y años La diferencia entre los días de fecha_inicial y fecha_final. Se ignoran los años de las fechas. de las fechas se ignoran. las fechas se ignoran.
+--------------------------------------------------
+
+=== Pagina 312 ===
+
+Con estos códigos de tiempo, puede calcular fácilmente la cantidad de años, meses y días entre dos fechas. Si alguien nació el 16 de mayo de 1972, podría encontrar el nombre de esa persona. A menudo, al informar sobre el número de días transcurridos entre una fecha de inicio y una fecha de finalización, no es apropiado contar los fines de semana en el número final de días. Operaciones Puede utilizar la función NETWORKDAYS de Excel para calcular el número de días entre una fecha de inicio y una fecha de finalización, excluyendo los fines de semana.
+--------------------------------------------------
+
+=== Pagina 313 ===
+
+Esta fórmula es bastante sencilla. La función NETWORKDAYS tiene dos argumentos requeridos: una fecha de inicio y una fecha de finalización. Si su fecha de inicio está en la celda B4 y su fecha de finalización es Excel, lo tiene cubierto con la función NETWORKDAYS.INTL. Además de las fechas de inicio y finalización requeridas, esta función tiene un tercer argumento opcional: un código de fin de semana. El código de fin de semana le permite especificar qué días excluir como día de fin de semana. Al ingresar a la función NETWORKDAYS.INTL, Excel muestra un menú tan pronto como ingresa al tercer argumento (consulte la Figura 12.3). Simplemente seleccione el código de fin de semana apropiado y acceda al tercer argumento (consulte la Figura 12.3). Simplemente seleccione el código de fin de semana apropiado y presione Enter. Al crear paneles e informes en Excel, suele ser útil tener una tabla auxiliar que contenga una lista de fechas que representan días hábiles (es decir, fechas que no son fines de semana ni feriados). Este tipo de tabla auxiliar puede ayudar en cálculos como los ingresos por negocio.
+--------------------------------------------------
+
+=== Pagina 314 ===
+
+Una de las formas más sencillas de generar una lista de días hábiles es utilizar la función WORKDAY.INTL. Comience con una hoja de cálculo que contenga la última fecha del año anterior y
+--------------------------------------------------
+
+=== Pagina 315 ===
+
+La función WORKDAY.INTL devuelve una fecha de día laborable basada en la cantidad de días que indica la Fecha de inicio (obligatorio) Este argumento es la fecha desde la que comenzar. Días (obligatorio) Este argumento es el número de días desde la fecha de inicio que desea Fines de semana (opcional) De forma predeterminada, la función WORKDAY.INTL excluye sábados y feriados (opcional) Este argumento le permite darle a Excel una lista de fechas para excluir en ella para incrementar. Esta función tiene dos argumentos obligatorios y dos argumentos opcionales: devuelto. Domingos, pero este tercer argumento le permite especificar qué días de la semana excluir como adición a los días del fin de semana. día de fin de semana. Al ingresar a la función WORKDAY.INTL, Excel muestra un menú donde puede seleccionar el código de fin de semana apropiado. AÑO extrae el año de una fecha determinada. MES extrae el mes de una fecha determinada. DAY extrae el número del día del mes de una fecha determinada. WEEKDAY devuelve el número del día de la semana para una fecha determinada. WEEKNUM devuelve el número de semana para una fecha determinada. La función AÑO devuelve un número de cuatro dígitos que corresponde al año de una fecha especificada. Esta fórmula retorna 2015.
+--------------------------------------------------
+
+=== Pagina 316 ===
+
+La función MES devuelve un número entre 1 y 12 que corresponde al mes de una fecha especificada. Esta fórmula devuelve 5. La función DÍA devuelve un número entre 1 y 31 que corresponde al día del mes representado en una fecha especificada. Esta fórmula devuelve 16. La función DÍA SEMANA devuelve un número del 1 al 7 que corresponde al día de la semana (de domingo a sábado) en el que cae la fecha dada. Si la fecha cae en domingo, se devuelve el número 1. Si la fecha cae en lunes, se devuelve el número 2. Esta función en realidad tiene un argumento return_type opcional que le permite definir qué día de la semana ocupa la primera posición. Al ingresar a la función DÍA SEMANAL, Excel muestra un menú donde puede seleccionar el código de tipo de retorno apropiado. La función WEEKNUM devuelve el número de semana del año para la semana en la que ocurre la fecha especificada. Esta fórmula devuelve 20 porque el 16/05/2015 cae dentro de la semana 20. Esta función en realidad tiene un argumento return_type opcional que le permite especificar qué día de la semana define el inicio de la semana. Por defecto, la función WEEKNUM define el inicio de la semana como domingo. Al ingresar a la función NÚMERO DE SEMANA, Excel muestra un menú
+--------------------------------------------------
+
+=== Pagina 319 ===
+
+Al crear informes y paneles de Excel, muchas veces resulta beneficioso calcular el porcentaje del año que ha transcurrido y el porcentaje que queda. Estos porcentajes se pueden utilizar. La función YEARFRAC simplemente requiere una fecha de inicio y una fecha de finalización. Una vez que tiene esas dos variables, calcula la fracción del año que representa el número de días entre la fecha de inicio y la fecha de finalización. Para obtener el porcentaje restante, como se muestra en la celda C7 de la Figura 12.9, simplemente reste 1 de la fórmula YEARFRAC:
+--------------------------------------------------
+
+=== Pagina 320 ===
+
+La función FECHA le permite crear una fecha sobre la marcha utilizando tres argumentos: el año, el mes y el día. El año puede ser cualquier número entero entre 1900 y 9999. El mes y la fecha pueden ser cualquier número positivo o negativo. Cuando usa 0 como argumento del día, le está diciendo a Excel que desea el día anterior al 1 del mes. Por ejemplo, ingresar esta fórmula en una celda en blanco devolverá
+--------------------------------------------------
+
+=== Pagina 321 ===
+
+La función EOMES es una alternativa sencilla al uso de la función FECHA. Con la función EOMONTH, puede obtener la última fecha de cualquier mes pasado o futuro. Todo lo que necesitas son dos argumentos: una fecha de inicio y la cantidad de meses en el futuro o en el pasado. Si especifica un número negativo de meses, se devolverá una fecha del pasado.
+--------------------------------------------------
+
+=== Pagina 322 ===
+
+La función ELEGIR devuelve una respuesta de una lista de opciones basadas en un número de posición. Si tuviera que ingresar la fórmula = ELEGIR (2, "Oro", "Plata", "Bronce", el primer argumento de la función ELEGIR es un número de índice requerido. Este argumento es un número del 1 a tantas opciones como enumere en el siguiente conjunto de argumentos. El número de índice determina cuál de los siguientes argumentos se devuelve. Los siguientes 254 argumentos (sólo se requiere el primero) definen sus opciones y determinan lo que se devuelve cuando se devuelve un número de índice. se proporciona. Si el número de índice es 1, el primero
+--------------------------------------------------
+
+=== Pagina 325 ===
+
+HORA extrae la porción horaria de un valor de tiempo determinado. MINUTE extrae la porción de minutos de un valor de tiempo determinado. SECOND extrae la segunda parte de un valor de tiempo determinado.
+--------------------------------------------------
+
+=== Pagina 326 ===
+
+La función HORA devuelve un número entre 0 y 23 correspondiente a la hora de un tiempo determinado. Esta fórmula devuelve 6. La función MINUTO devuelve un número entre 0 y 59 correspondiente a los minutos de un tiempo determinado. Esta fórmula devuelve 15. La función SEGUNDO devuelve un número entre 0 y 59 correspondiente a los segundos de un tiempo determinado. Esta fórmula devuelve 27.
+--------------------------------------------------
+
+=== Pagina 329 ===
+
+La función HORA le permite construir un valor de tiempo sobre la marcha usando tres argumentos: hora, minuto y segundo. Por ejemplo, esta fórmula devolvería el valor de tiempo 2:30:30 p. m.: para agregar una cierta cantidad de horas a un valor de tiempo existente, simplemente use la función HORA para crear un nuevo valor de tiempo y luego súmelos. Esta fórmula añade 30 minutos a la
+--------------------------------------------------
+
+=== Pagina 330 ===
+
+Una condición es un valor o expresión que devuelve VERDADERO o FALSO. Según el valor de la condición, una fórmula puede dividirse en dos cálculos separados. Es decir, cuando la condición regresa
+--------------------------------------------------
+
+=== Pagina 331 ===
+
+La función SI es la función de análisis condicional más básica en Excel. Tiene tres argumentos: la condición, qué hacer si la condición es verdadera y qué hacer si la condición es falsa. El argumento de condición en este ejemplo es C3>PROMEDIO(C$3:C$11). Los argumentos de condición deben estructurarse para devolver VERDADERO o FALSO, y esto generalmente significa que hay una operación de comparación (como un signo igual o mayor que) u otra función de hoja de cálculo que devuelve VERDADERO o FALSO (como SERRR o ESBLANCO). La condición de ejemplo tiene un valor mayor que. Si nuestro argumento de condición devuelve VERDADERO, el segundo argumento de la función SI se devuelve a la celda. El segundo argumento es Alto, y dado que el valor en C3 es de hecho
+--------------------------------------------------
+
+=== Pagina 334 ===
+
+Además de anidar funciones condicionales, se pueden evaluar juntas dentro de una función AND. Esto es útil cuando es necesario evaluar dos o más condiciones al mismo tiempo para determinar dónde debe bifurcarse la fórmula.
+--------------------------------------------------
+
+=== Pagina 335 ===
+
+Con la función AND, todos los argumentos lógicos deben devolver VERDADERO para que toda la función devuelva VERDADERO. Si incluso uno de los argumentos lógicos devuelve FALSO, entonces la función Y
+--------------------------------------------------
+
+=== Pagina 336 ===
+
+FALSO. Los argumentos de AND también pueden hacer referencia a celdas siempre que esas celdas se evalúen como VERDADERO o FALSO. Al construir una fórmula con la función AND, puede resultar útil dividir
+--------------------------------------------------
+
+=== Pagina 337 ===
+
+VERDADERO para Y para devolver VERDADERO. Por el contrario, la función OR es inclusiva. Con OR, si alguno de los argumentos es VERDADERO, toda la función devuelve VERDADERO. En este ejemplo, hemos anidado
+--------------------------------------------------
+
+=== Pagina 338 ===
+
+Las funciones condicionales simples como IF generalmente funcionan con un solo valor o celda a la vez. ances para garantizar que sean iguales. Excel proporciona la función SUMAR.SI para sumar valores según una condición. SUMAR.SI toma cada valor en C3:C12 y lo compara con la condición (el segundo argumento de nuestra función). Si el valor es menor que cero, cumple la condición y se incluye en la suma. Si es cero o mayor, el valor se ignora. Los valores de texto y las celdas en blanco también son la suma. Si es cero o mayor, el valor se ignora. Los valores de texto y las celdas en blanco también se ignoran. Para el ejemplo de la figura 13.8, la celda C3 se evalúa primero. Porque es mayor El segundo argumento de SUMAR.SI, la condición a cumplir, está entre comillas. Como usamos un signo menor que en este ejemplo, tenemos que crear una cadena que represente la expresión. =SUMAR.SI(C3:C12,"<0")
+--------------------------------------------------
+
+=== Pagina 339 ===
+
+La función SUMAR.SI tiene un tercer argumento opcional llamado rango_suma. estado aplicando la condición a los mismos números que estamos sumando. Al utilizar el tercer argumento, podemos sumar un rango de números pero aplicar nuestras condiciones a un rango diferente. Cifra
+--------------------------------------------------
+
+=== Pagina 340 ===
+
+TABLA 13.3 Reglas simples para usar operadores de comparación para establecer una condición... Igual a un número o Igual a una cadena Comparación no igual Comparación no igual Comparación no igual Coloque el operador en doble =SUMAR.SI(A1:A10,"<"&C1) …Siga estas reglas referencia de celda No use un signo igual, sino un número a una cadena a una referencia de celda o comillas y concatene la Por ejemplo, no use un signo igual ni coloque la cadena citas. Coloque tanto el operador como la referencia de celda o fórmula Coloque tanto el operador como la fórmula entre comillas dobles. =SUMAR.SI(A1:A10,"libro") número entre comillas dobles. cadena entre comillas dobles. el signo comercial (&). =SUMAR.SI(A1:A10,3) =SUMAR.SI(A1:A10,">=50") =SUMAR.SI(A1:A10,"<>Nómina")
+--------------------------------------------------
+
+=== Pagina 341 ===
+
+La limitación de SUMIF La limitación de SUMIF que se muestra en la Figura 13.9 es que funciona con una sola condición. La función SUMIFS se puede utilizar cuando se necesita más de una condición. Los argumentos SUMIFS comienzan con el rango que contiene el valor que desea sumar. Los argumentos restantes están en pares que siguen el patrón rango_criterios, criterios. =SUMIFS(D3:D212,B3:B212,G3,C3:C212,">="&G4,C3:C212,"<="&G5) número de argumentos. El primer par de criterios es obligatorio: sin al menos una condición, SUMIFS no sería diferente de SUM. Los pares de condiciones restantes, hasta 126 de
+--------------------------------------------------
+
+=== Pagina 344 ===
+
+La función CONTAR.SI funciona de manera similar a la función SUMAR.SI. La diferencia obvia, como sugiere el nombre, es que cuenta las entradas que cumplen
+--------------------------------------------------
+
+=== Pagina 345 ===
+
+los criterios en lugar de sumarlos. La función SUMAR.SI tiene su prima CONTAR.SI. Por supuesto, Microsoft no pudo introducir SUMIFS para sumar múltiples condiciones sin introducir también COUNTIFS para contarlas.
+--------------------------------------------------
+
+=== Pagina 346 ===
+
+Los argumentos rango_criterios y criterios vienen en pares como en SUMIFS. Mientras que SUMIFS siempre tendrá un número impar de argumentos, CONTAR.SI siempre tendrá un número par. agregador común. El promedio, también conocido como media aritmética, es la suma de los números dividida por el conteo de los números.
+--------------------------------------------------
+
+=== Pagina 347 ===
+
+la función SUMAR.SI, PROMEDIO.SI tiene un rango de criterios y un argumento de criterios. El argumento final es el rango al promedio. En este ejemplo, cada celda en E3:E20 está incluida. Si ninguna fila cumple con los criterios en PROMEDIOSI, la función devuelve #DIV/0. error. Microsoft introdujo AVERAGEIFS junto con SUMIFS y COUNTIFS para permitirle promediar un rango de números basado en más de una condición.
+--------------------------------------------------
+
+=== Pagina 348 ===
+
+La función PROMEDIOSIFS está estructurada de manera similar a la función SUMIFS. El primer argumento es el rango para promediar, y le siguen hasta 127 pares de rango_criterio/criterios. ■D3:D20,I3 incluye sólo aquellas filas donde el código de país es SUI. ■B3:B20,"*"&I4 incluye solo aquellas filas donde el nombre del evento termina con ■F3:F20,I5 incluye solo aquellas filas donde la medalla es ORO. argumentos. Los tres pares de criterios son los siguientes: palabra Mujer.
+--------------------------------------------------
+

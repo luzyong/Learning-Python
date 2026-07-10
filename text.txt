@@ -1,0 +1,312 @@
+Page 43
+You perform the work you do in Excel in a workbook. as you need, and each one appears in its own window. By default, Excel workbooks use an.xlsx file extension. 
+
+Page 44
+Each workbook contains one or more worksheets, and each worksheet consists of individualcells. Each cell can contain a number, a formula, or text. A worksheet also has an invisible cells. Each cell can contain a number, a formula, or text. A worksheet also has an invisibledrawing layer, which holds charts, images, and diagrams. Objects on the drawing layer sit Objects drawing layer, which holds charts, images, and diagrams. Objects on the drawing layer sitover the top of the cells, but they are not in the cells like a number or formula. Each work- top of cells, not in over the top of the cells, but they are not in the cells like a number or formula. Each work-sheet in a workbook is accessible by clicking the tab at the bottom of the workbook win- accessible clicking the tab workbook can store chart sheets: displays single chart accessible clicking tab. 
+
+Page 46
+worksheet consists of rows 1 1,048,576) and columns A XFD). intersection row and column is a single cell, each cell has a unique address of its column letter and row number. active cell is At any given time, one cell is the active cell. The active cell is the cell that accepts key-board input, and its contents can be edited. You can identify the active cell by its darker identify board input, and its contents can be edited. You can identify the active cell by its darkerborder, as shown in Figure 1.2. If more than one cell is selected, the dark border surrounds border, as shown in Figure 1.2. If more than one cell is selected, the dark border surroundsthe entire selection, and the active cell is the light-colored cell within the border. Its address in the Name box. 
+
+Page 47
+around a worksheet. These keys work just as you’d expect: the down arrow moves the activecell down one row, the right arrow moves it one column to the right, and so on. PgUp and cell down one row, the right arrow moves it one column to the right, and so on. PgUp andPgDn move the active cell up or down one full window. (The actual number of rows moved When Num Lock is on, the keys on your numeric keypad generate numbers. 
+
+Page 48
+change the active cell using the mouse, click another cell can use the scrollbars to scroll the window in any direction. To scroll one cell, click eitherof the arrows on the scrollbar. To scroll by a complete screen, click either side of the scroll-bar’s scroll box. To scroll faster, drag the scroll box or right-click anywhere on the scrollbarfor a menu of shortcuts. 
+
+Page 49
+Press Ctrl while you use the mouse wheel to zoom the worksheet. Press Ctrl while you use the mouse wheel to zoom the worksheet. If you prefer to use themouse wheel to zoom the worksheet without pressing Ctrl, choose File ➪ Options and select Advanced the Advanced section. Place a check mark next to the Zoom on Roll with IntelliMouse checkbox. Ribbon, In Office 2007, Microsoft debuted the Ribbon, a collection of icons at the top of the screenthat replaced the traditional menus and toolbars. The words above the icons are known as tabs: the Home tab, the Insert tab, and so on. Ribbon can be either hidden or visible—it’s press Ctrl+F1 (or double-click a tab at the top). If hidden, ity, press Ctrl+F1 (or double-click a tab at the top). If the Ribbon is hidden, it temporarilyappears when you click a tab and hides itself when you click in the worksheet. The title bar Ribbon Display Options (next to the Minimize button). trol, and choose one of three Ribbon options: Auto-Hide Ribbon, Show Tabs, or Show Tabsand Commands. commands available vary, depending upon which tab is selected. Home tains the basic Clipboard commands, formatting commands, style commands, commands toinsert and delete rows or columns, plus an assortment of worksheet editing commands. Insert Insert Select this tab when you need to insert something into a worksheet—a table, adiagram, a chart, a symbol, and so on. Page Layout Page Layout This tab contains commands that affect the overall appearance of yourworksheet, including some settings that deal with printing. Formulas Formulas Use this tab to insert a formula, name a cell or a range, access the formulaauditing tools, or control the way Excel performs calculations. Data data-related commands are on this tab, Review Review This tab contains tools to check spelling, translate words, add comments, or pro-tect sheets. View View The View tab contains commands that control various aspects of how a sheet isviewed. Some commands on this tab are also available in the status bar. Developer isn’t visible by default. Developer This tab isn’t visible by default. It contains commands that are useful for pro-grammers. To display the Developer tab, choose File ➪ Options and then select Customize File ➪ Options Customize 
+
+Page 50
+Ribbon. Ribbon. In the Customize the Ribbon section on the right, make sure that Main Tabs isselected in the drop-down control and place a check mark next to Developer. Help Help This tab provides ways to get help, make suggestions, and access other aspects ofMicrosoft’s community. Add-Ins Add-Ins This tab is visible only if you loaded an older workbook or add-in that customizesthe menu or toolbars. Because menus and toolbars are no longer available in Excel 2019, The appearance of the commands on the Ribbon varies, depending on the width of theExcel window. When the Excel window is too narrow to display everything, the commands 
+
+Page 51
+contextual tabs. Whenever an object as a chart, a table, or a SmartArt diagram) is selected, specific tools for working with thatobject are made available in the Ribbon. 
+
+Page 53
+the pop-up keytips. Each Ribbon control has a letter (or series of letters) that you type toissue the command. But in fact, the Ribbon is very keyboard friendly. The trick is to press the Alt key to displaythe pop-up keytips. Each Ribbon control has a letter (or series of letters) that you type to You don’t need to hold down the Alt key while you type keytip letters. 
+
+Page 54
+After you press Alt, you can also use the left- and right-arrow keys to scroll through thetabs. When you reach the proper tab, press the down arrow to enter the Ribbon. Then use press Enter to execute it. particular style to a cell (by choosing Home ➪ Styles ➪ Cell Styles), you can activate another cell and press Ctrl+Y(or F4) to repeat the command. Search box for finding commands. 
+
+Page 55
+In addition to the Ribbon, Excel features many shortcut menus, which you access by right-clicking just about anything within Excel. Shortcut menus don’t contain every relevant contain those that are most commonly used for whatever is selected. 
+
+Page 56
+The box above the shortcut menu—the Mini toolbar—contains commonly used tools fromthe Home tab. The Mini toolbar was designed to reduce the distance your mouse has to toolbar. Typically, the Quick Access toolbar appears on the left side of the title bar, abovethe Ribbon. Alternatively, you can display the Quick Access toolbar below the Ribbon;just right-click the Quick Access toolbar and choose Show Quick Access Toolbar Below TheRibbon. By default, the Quick Access toolbar contains four tools: AutoSave, Save, Undo, and Redo. You can customize the Quick Access toolbar by adding other commands that you use oftenor removing the default controls. To add a command from the Ribbon to your Quick Access right-click the command and choose Add to Quick Access Toolbar. You can reverse the effects of the past 100 actions that you performed. If you click the arrow on the right side of the Undo button, you see a list of the actions that you canreverse. Click an item in that list to undo that action and all the subsequent actions you performed. 
+
+Page 57
+anything that you do using the File button can’t be undone. changes made by a macro can’t be undone. macro that changes the workbook clears the Undo list. 
+
+Page 58
+two types of dialog boxes. Typical dialog box this type of dialog box is displayed, you can’t do anything in the worksheet until youdismiss the dialog box. Clicking OK performs the specified actions, and clicking Cancel dismiss the dialog box. Clicking OK performs the specified actions, and clicking Cancel (orpressing Esc) closes the dialog box without taking any action. Most Excel dialog boxes are Stay-on-top dialog box When a modeless dialog box is displayed, you can continue working in Excel, and the dia-log box remains open. Changes made in a modeless dialog box take effect immediately. An log box open while you continue to use your worksheet. A modeless dialog box has a Closebutton but no OK button. 
+
+Page 59
+Another user interface element is the task pane. Task panes appear automatically inresponse to several commands. For example, to work with a picture that you’ve inserted, 
+
+Page 60
+There’s no OK button in a task pane. There’s no OK button in a task pane. When you’re finished using a task pane, click the Closebutton (X) in the upper-right corner. By default, a task pane is docked on the right side of the Excel window, but you can move itanywhere you like by clicking its title bar and dragging. Excel remembers the last position, Excel remembers the last position, To re-dock double-click the task pane’s title bar. 
+
+Page 68
+An Excel workbook ﬁle can hold any number of worksheets, and each worksheet is made up of morethan 17 billion cells. A cell can hold any of four basic types of data. ■A numeric value ■Text ■A formula ■An error Numeric values represent a quantity of some type: Values also can be dates (Feb 26, 2019) or times (such as 3:24 AM). 
+
+Page 69
+Excel’s numbers are precise up to 15 digits. 16 digits, it substitutes a zero worksheet. Text is often used to clarify what the values in a worksheet mean or where thenumbers came from. 
+
+Page 70
+Formulas can be simple mathematical expressions, or they can use some of the powerfulfunctions that are built into Excel. Figure 2.1 shows an Excel worksheet set up to calculate to calculate a result. formulas that use the values (or even text) in cells to calculate a result. When you enter aformula into a cell, the formula’s result appears in the cell. If you change any of the cellsused by a formula, the formula recalculates and shows the new result. 
+
+Page 72
+The left side of Excel’s status bar normally displays “Ready,” indicating that Excel is readyfor you to enter or edit the worksheet. If you start typing numbers or text in a cell, thestatus bar changes to display “Enter” to indicate you’re in Enter mode. The most commonmodes for Excel to be in are Ready, Enter, and Edit. See “Modifying Cell Contents” later in Excel handles dates by using a serial number system. This system makes it easy to deal with dates in formulas. Most of the time, you don’t have to be concerned with Excel’s serial number date system.You can simply enter a date in a common date format, and Excel takes care of the detailsbehind the scenes. For example, if you need to enter June 1, 2019, you can enter the date 
+
+Page 73
+When you work with times, you extend Excel’s date serial number system to include deci-mals. In other words, Excel works with times by using fractional days. For example, the you can modify it in several ways. ■Delete the cell’s contents. ■Replace the cell’s contents with something else. ■Edit the cell’s contents. To delete the contents of a cell, just click the cell and press the Delete key. To delete the contents of a cell, just click the cell and press the Delete key. To delete morethan one cell, select all of the cells that you want to delete and then press Delete. Pressing removes the cell’s contents but doesn’t remove any formatting 
+
+Page 74
+To replace the contents of a cell with something else, just activate the cell and typeyour new entry, which replaces the previous contents. Any formatting applied to the your new entry, which replaces the previous contents. Any formatting applied to the cellremains in place and is applied to the new content. You can also replace cell contents by dragging and dropping or by copying and pasting datafrom another cell. In both cases, the cell formatting will be replaced by the format of thenew data. To avoid pasting formatting, choose Home ➪ Clipboard ➪ Paste ➪ Values (V), or new data. To avoid pasting formatting, choose Home ➪ Clipboard ➪ Paste ➪ Values (V), orHome ➪ Clipboard ➪ Paste ➪ Formulas (F). is easiest. However, if the cell contains lengthy text or a complex formula and you needto make only a slight modiﬁcation, you probably want to edit the cell rather than re-enter ■Double-click the cell to edit the cell contents directly in the cell. ■Select the cell and press F2 to edit the cell contents directly in the cell. 
+
+Page 75
+■Select the cell that you want to edit and then click inside the Formula bar toedit the cell contents in the Formula bar. left side of the status bar at the bottom of the window.) When Excel is in Edit mode, theFormula bar enables two icons: Cancel (the X) and Enter (the check mark). Figure 2.3 shows these two icons. Clicking the Cancel icon cancels editing without changing the cell’s con-tents. (Pressing Esc has the same effect.) Clicking the Enter icon completes the editing andenters the modiﬁed contents into the cell. (Pressing Enter has the same effect, except thatclicking the Enter icon doesn’t change the active cell.) 
+
+Page 76
+By default, Excel automatically selects the next cell down when you press the Enter keyafter entering data into a cell. To change this setting, choose File ➪ Options and click When a range of cells is selected, Excel automatically selects the next cell in the rangewhen you press Enter, even if you disabled the After pressing Enter, move selection If the selection consists of multiple rows, Excel moves down the column; when it reachesthe end of the selection in the column, it moves to the ﬁrst selected cell in the nextcolumn. If you need to enter the same data into multiple cells, Excel offers a handy shortcut. Selectall of the cells that you want to contain the data; enter the value, text, or formula; andthen press Ctrl+Enter. The same information is inserted into each cell in the selection. 
+
+Page 77
+You can press F2 to change between Enter mode and Edit mode. 
+
+Page 78
+easy. It uses the fill handle (the small box at the lower right of the active cell). You can dragthe ﬁll handle to copy the cell or automatically complete a series. 
+
+Page 79
+The Excel AutoComplete feature makes entering the same text into multiple cells easy. WithAutoComplete, you type the ﬁrst few letters of a text entry into a cell, and Excel automati-cally completes the entry based on other entries that you already made in the column. 
+
+Page 80
+If you have lengthy text in a cell, you can force Excel to display it in multiple lines withinthe cell: press Alt+Enter to start a new line in a cell. 
+
+Page 81
+Excel can also display values with fractions. To enter a fractional value into a cell, leave aspace between the whole number and the fraction. For example, to enter 6 7/8, enter 6 7/8and then press Enter. When you select the cell, 6.875 appears in the Formula bar, and thecell entry appears as a fraction. If you have a fraction only (for example, 1/8), you mustenter a zero ﬁrst, like this—0 1/8—or Excel will likely assume that you’re entering a date. 
+
+Page 83
+Applying number formatting changes the appearance of values contained in cells. 
+
+Page 84
+Values that you enter into cells normally are unformatted. 
+
+Page 85
+Excel is able to perform some formatting for you automatically. The Number Format drop-down list contains 11 common number formats (see Figure 2.9).The Home ➪ Number group in the Ribbon contains controls that let you quickly apply com-mon number formats. button. The group also contains a button to increase the number of decimal places andanother to decrease the number of decimal places. 
+
+Page 87
+Sometimes, however, you want more control over how your values appear. dialog box, as shown in Figure 2.10. For formatting numbers, you need to use the Numbertab. You can bring up the Format Cells dialog box in several ways. Start by selecting the cell orcells that you want to format and then do one of the following: ■Choose Home ➪ Number and click the small dialog box launcher icon (in the lower- ■Choose Home ➪ Number, click the Number Format drop-down list, and choose More ■Right-click the cell, and choose Format Cells from the shortcut menu. ■Press Ctrl+1.right corner of the Number group). Number Formats from the drop-down list. 
+
+Page 88
+The Number category has three options that you can control: the number of decimal placesdisplayed, whether to use a thousands separator, and how you want negative numbersdisplayed. The Negative Numbers list box has four choices (two of which display negative 
+
+Page 93
+■Ctrl+PgUp activates the previous sheet, if one exists. ■Ctrl+PgDn activates the next sheet, if one exists. If your workbook has many sheets, all of its tabs may not be visible. Use the tab scrollingcontrols (see Figure 3.2) to scroll the sheet tabs. Clicking the scrolling controls scrolls onetab at a time, and Ctrl+clicking scrolls to the ﬁrst or last sheet. The sheet tabs share space 
+
+Page 94
+Here are four ways to add a new worksheet to a workbook:■Click the New Sheet control, which is the plus sign icon located to the right of the ■Press Shift+F11. A new sheet is added before the active sheet. ■From the Ribbon, choose Home ➪ Cells ➪ Insert ➪ Insert Sheet. A new sheet is ■Right-click a sheet tab, choose Insert from the shortcut menu, and select thelast visible sheet tab. A new sheet is added after the active sheet. added before the active sheet. General tab of the Insert dialog box that appears. Then select the Worksheet iconand click OK. A new sheet is added before the active sheet. ■Right-click its sheet tab and choose Delete from the shortcut menu. ■Activate the unwanted worksheet and choose Home ➪ Cells ➪ Delete ➪ Deleteworkbook, you can delete it in either of two ways. Sheet. 
+
+Page 95
+These are three ways to change a sheet’s name:■From the Ribbon, choose Home ➪ Cells ➪ Format ➪ Rename Sheet. ■Double-click the sheet tab. ■Right-click the sheet tab and choose Rename Sheet. Sheet names can contain as many as 31 characters, and spaces are allowed. However, youcan’t use the following characters in sheet names: 
+
+Page 96
+To change the color of a sheet tab, choose Home ➪ Cells ➪ Format ➪ Tab Color, or right-click the tab and choose Tab Color from the shortcut menu. Then select the color from thecolor palette. You can’t change the text color, but Excel will choose a contrasting color to 
+
+Page 97
+useful if you don’t want others to see it or if you just want to get it out of the way. When asheet is hidden, its sheet tab is also hidden. You can’t hide all of the sheets in a workbook;at least one sheet must remain visible. To hide a worksheet, choose Home ➪ Cells ➪ Format ➪ Hide & Unhide ➪ Hide Sheet, orright-click its sheet tab and choose Hide. The active worksheet (or selected worksheets) To unhide a hidden worksheet, choose Home ➪ Cells ➪ Format ➪ Hide & Unhide ➪ UnhideSheet, or right-click any sheet tab and choose Unhide. Excel opens the Unhide dialog box, 
+
+Page 98
+You can’t select multiple sheets from this dialog box, so you need to repeat the commandfor each sheet that you want to unhide. When you unhide a sheet, it appears in its previousposition among the sheet tabs. To prevent others from unhiding hidden sheets, inserting new sheets, renaming sheets, copying sheets,or deleting sheets, protect the workbook’s structure. 1. Choose Review ➪ Protect ➪ Protect Workbook.2. In the Protect Structure and Windows dialog box, select the Structure option.3. Provide a password (optional) and click OK. 
+
+Page 99
+To create and display a new view of the active workbook, choose View ➪ Window ➪ New Excel displays a new window for the active workbook, similar to the one shown in FigureWindow. A single workbook can have as many views (that is, separate windows) as you want. Eachwindow is independent. In other words, scrolling to a new location in one window doesn’t cause scrolling in the other window(s). However, if you make changes to the worksheetshown in a particular window, those changes are also made in all views of that worksheet. 
+
+Page 100
+close the other windows for the workbook. If you have unsaved changes, Excel will promptyou to save only when you close the last window. In some situations, you may want to compare two worksheets that are in different win-dows. The View Side by Side feature makes this task a bit easier. make sure that the two sheets are displayed in separate windows. choose View ➪ Window ➪ New Window 
+
+Page 101
+active workbook. Activate the ﬁrst window; then choose View ➪ Window ➪ View Side bySide. If more than two windows are open, you see a dialog box that lets you select the win-dow for the comparison. The two windows are tiled to ﬁll the entire screen. When using the Compare Side by Side feature, scrolling in one of the windows also scrollsthe other window. If you don’t want this simultaneous scrolling, choose View ➪ Window If you prefer not to clutter your screen with additional windows, Excel provides anotheroption for viewing multiple parts of the same worksheet. Choosing View ➪ Window ➪ Splitsplits the active worksheet into two or four separate panes. The split occurs at the location splits the active worksheet into two or four separate panes. The split occurs at the locationof the active cell. If the active cell pointer is in row 1 or column A, this command results 
+
+Page 104
+To display the Watch Window, choose Formulas ➪ Formula Auditing ➪ Watch Window. TheIn some situations, you may want to monitor the value in a particular cell as you work. Asyou scroll throughout the worksheet, that cell may disappear from view. A feature knownas a Watch Window can help. A Watch Window displays the value of any number of cells in ahandy window that’s always visible. To add a cell to watch, click Add Watch and specify the cell that you want to watch. 
+
+Page 105
+tions don’t change the number of rows or columns. Instead, inserting a new row movesdown the other rows to accommodate the new row. The last row is simply removed from theworksheet if it’s empty. Inserting a new column shifts the columns to the right, and thelast column is removed if it’s empty. To insert a new row or rows, use either of these methods:■Select an entire row or multiple rows by clicking the row numbers in the worksheet ■Move the active cell to the row that you want to insert and then choose Home ➪ ■Select an entire column or columns by clicking the column letters in the worksheet ■Move the active cell to the column that you want to insert and then choose Homeborder. Right-click and choose Insert from the shortcut menu. Cells ➪ Insert ➪ Insert Sheet Rows. If you select multiple cells in the column, Excel border. Right-click and choose Insert from the shortcut menu. ➪ Cells ➪ Insert ➪ Insert Sheet Columns. If you select multiple cells in the row,inserts additional rows that correspond to the number of cells selected in the col- Excel inserts additional columns that correspond to the number of cells selected inumn and moves the rows below the insertion down. the row.To insert a new column or columns, use either of these methods: You can also insert cells rather than just rows or columns. Select the range into which youwant to add new cells and then choose Home ➪ Cells ➪ Insert ➪ Insert Cells (or right-clickthe selection and choose Insert). To insert cells, you must shift the existing cells to theright or down. Therefore, Excel displays the Insert dialog box shown in Figure 3.11 so that 
+
+Page 106
+To delete a row or rows, use either of these methods:■Select an entire row or multiple rows by clicking the row numbers in the worksheet ■Move the active cell to the row that you want to delete and then choose Home ➪border. Right-click and choose Delete from the shortcut menu. Cells ➪ Delete ➪ Delete Sheet Rows. If you select multiple cells in the column,Excel deletes all rows in the selection.Deleting columns works in a similar way. 
+
+Page 107
+■Drag the right-column border with the mouse until the column is the desired width. ■Choose Home ➪ Cells ➪ Format ➪ Column Width and enter a value in the Column ■Choose Home ➪ Cells ➪ Format ➪ AutoFit Column Width to adjust the width of the ■Double-click the right border of a column header to set the column width automati-Width dialog box. selected column so that the widest entry in the column ﬁts. Instead of selecting an cally to the widest entry in the column.umns, click the button where the row and column headers intersect. You can change col- entire column, you can just select cells in the column, and the column is adjustedumn widths by using any of the following techniques: based on the widest entry in your selection. 
+
+Page 108
+You can set the row height manually, however, by using any of the following techniques. Aswith columns, you can select multiple rows: ■Drag the lower row border with the mouse until the row is the desired height. ■Choose Home ➪ Cells ➪ Format ➪ Row Height and enter a value (in points) in the ■Double-click the bottom border of a row to set the row height automatically to theRow Height dialog box. tallest entry in the row. You can also choose Home ➪ Cells ➪ Format ➪ AutoFit RowHeight for this task. In some cases, you may want to hide particular rows or columns. Hiding rows and columnsmay be useful if you don’t want users to see particular information or if you need to print areport that summarizes the information in the worksheet without showing all the details. To hide rows in your worksheet, select the row or rows that you want to hide by clicking in To hide columns, use the same technique, but start by selecting columns rather than rows.the row header on the left. Then right-click and choose Hide from the shortcut menu. Or,you can use the commands on the Home ➪ Cells ➪ Format ➪ Hide & Unhide menu. A hidden row is actually a row with its height set to zero. Similarly, a hidden column hasa column width of zero. When you use the navigation keys to move the active cell, cells Another way to unhide a row or column is to choose Home ➪ Editing ➪ Find & Select ➪ Gonarrow row heading for hidden rows. You can click and drag the column heading to make To (or use one of its two shortcut keys: F5 or Ctrl+G) to select a cell in a hidden row or col-the column wider—and make it visible again. For a hidden row, click and drag the small umn. For example, if column A is hidden, you can press F5 and go to cell A1 (or any otherrow heading to make the row visible. cell in column A) to move the active cell to the hidden column. Then you can choose Home➪ Cells ➪ Format ➪ Hide & Unhide ➪ Unhide Columns. 
+
+Page 109
+A cell is a single element in a worksheet that can hold a value, some text, or a formula. A cell isidentiﬁed by its address, which consists of its column letter and row number. For example, cell A group of one or more cells is called a range. You designate a range address by specifying its upper-left cell address and its lower-right cell address, separated by a colon. 
+
+Page 110
+You can select a range in several ways:■Left-click and drag over the range. If you drag to the end of the window, the work- ■Press the Shift key while you use the navigation keys to select a range. ■Press F8 to enter Extend Selection mode (Extend Selection appears in the status ■Type the cell or range address into the Name box (located to the left of the Formula ■Choose Home ➪ Editing ➪ Find & Select ➪ Go To (or press F5 or Ctrl+G) and enter asheet will scroll. bar). In this mode, click the lower-right cell of the range or use the navigation keys bar) and press Enter. Excel selects the cell or range that you speciﬁed. range’s address manually in the Go To dialog box. When you click OK, Excel selectsto extend the range. Press F8 again to exit Extend Selection mode. the cells in the range that you speciﬁed. 
+
+Page 111
+■Click the row or column header to select a single row or column or click and drag ■To select multiple (nonadjacent) rows or columns, click the ﬁrst row or column ■Press Ctrl+spacebar to select the column(s) of the currently selected cells. Pressthe same numeric format or the same alignment options to an entire row or column. You for multiple rows or columns. header and then hold down the Ctrl key while you click the additional row or col- Shift+spacebar to select the row(s) of the currently selected cells.can select entire rows and columns in much the same manner as you select ranges: umn header that you want. Most of the time, the ranges that you select are contiguous—a single rectangle of cells.Excel also enables you to work with noncontiguous ranges, which consist of two or moreranges (or single cells) that aren’t necessarily adjacent to each other. Selecting noncontigu-ous ranges is also known as a multiple selection. If you want to apply the same formatting ous ranges, hold down the Ctrl key while you click and drag. If you’re selecting a rangeusing the arrow keys, press Shift+F8 to enter Add or Remove Selection mode (that termwill appear in the status bar). Press Shift+F8 again to exit Add or Remove Selection mode.Anywhere you type the range manually, such as in the Name box or the Go To dialog box,simply separate the noncontiguous ranges with a comma. For example, typing A1:A10, 
+
+Page 112
+In addition to two-dimensional ranges on a single worksheet, ranges can extend across mul-tiple worksheets to be three-dimensional ranges. 
+
+Page 113
+1. Activate the Totals worksheet by clicking its tab. 2. Select the range B3:F3. 3. Press Shift and click the Manufacturing sheet tab. This step selects all worksheetsbetween the active worksheet (Totals) and the sheet tab that you click—in essence,a three-dimensional range of cells (see Figure 4.4). When multiple sheets areselected, the workbook window’s title bar displays Group to remind you that you’veselected a group of sheets and that you’re in Group mode. 
+
+Page 114
+4. Choose Home ➪ Font ➪ Bold and then choose Home ➪ Font ➪ Fill Color to apply a 5. Click one of the other sheet tabs. This step selects the sheet and cancels Groupcolored background. Excel applies the formatting to the selected range across the mode; Group is no longer displayed in the title bar.selected sheets. When a workbook is in Group mode, any changes that you make to cells in one worksheetalso apply to the corresponding cells in all of the other grouped worksheets. You can use In general, selecting a multisheet range is a simple two-step process: select the range inone sheet and then select the worksheets to include in the range. To select a group of 
+
+Page 115
+you may need to locate speciﬁc types of cells in your worksheets. to locate these and many other special types of cells: select a range and choose Home ➪Editing ➪ Find & Select ➪ Go To Special to display the Go To Special dialog box, as shown 
+
+Page 116
+After you make your choice in the dialog box, Excel selects the qualifying subset of cells inthe current selection. Often, this subset of cells is a multiple selection. If no cells qualify, the current selection. Often, this subset of cells is a multiple selection. If no cells qualify,Excel lets you know with the message No cells were found. Go To Special Options 
+
+Page 117
+Another way to select cells is to choose Home ➪ Editing ➪ Find & Select ➪ Find (or pressCtrl+F), which allows you to select cells by their contents. The Find and Replace dialog box 
+
+Page 118
+Enter the text you’re looking for; then click Find All. The dialog box expands to display allof the cells that match your search criteria. For example, Figure 4.7 shows the dialog box list, and the screen will scroll so that you can view the cell in context. To select all of thecells in the list, ﬁrst select any single item in the list. Then press Ctrl+A to select them all. The Find and Replace dialog box supports two wildcard characters: 
+
+Page 119
+Match Case If this check box is selected, the case of the text must match exactly. For Match Entire Cell Contents If this check box is selected, a match occurs if the cell con- Look In This drop-down list has three options: Values, Formulas, and Comments. Theexample, searching for smith does not locate Smith. tains only the search string (and nothing else). For example, searching for Excel doesn’t Formulas option looks only at the text that makes up the formula or the contents of thelocate a cell that contains Microsoft Excel. When using wildcard characters, an exact cell if there is no formula. The Values option looks at the cell value and the results, not thematch is not required. text, of the formula. If, for example, Formulas is selected, searching for 900 doesn’t ﬁnd acell that contains the formula =899+1 but will ﬁnd a cell with a value of 900. The Valuesoption will ﬁnd both of those cells. 
+
+Page 120
+Copying or moving consists of two steps (although shortcut methods are available):1. Select the cell or range to copy (the source range), and copy it to the Clipboard. To 2. Select the cell or range that will hold the copy (the destination range), and pastemove the range instead of copying it, cut the range instead of copying it. the Clipboard contents. Instead of choosing Home ➪ Clipboard ➪ Paste, you can just activate the destination cell If you’re copying a range, you don’t need to select an entire same-sized range before youChoosing Home ➪ Clipboard ➪ Copy transfers a copy of the selected cell or range to the and press Enter. If you use this technique, Excel removes the copied information from the click the Paste button. You only need to activate the upper-left cell in the destinationWindows Clipboard and the Ofﬁce Clipboard. After performing the copy part of this opera- Clipboard so that it can’t be pasted again. range.tion, select the destination cell and choose Home ➪ Clipboard ➪ Paste. 
+
+Page 121
+■Right-click the range and choose Copy (or Cut) from the shortcut menu to copy the ■Right-click and choose Paste from the shortcut menu that appears to paste theselected cells to the Clipboard. Clipboard contents to the selected cell or range. ■Ctrl+C copies the selected cells to both the Windows Clipboard and the Ofﬁce ■Ctrl+X cuts the selected cells to both the Windows Clipboard and the Ofﬁce ■Ctrl+V pastes the Windows Clipboard contents to the selected cell or range.Clipboard. Clipboard. 
+
+Page 123
+Excel also enables you to copy or move a cell or range by dragging. To copy using drag-and-drop, select the cell or range that you want to copy, press Ctrl, andmove the mouse to one of the selection’s borders. (The mouse pointer is augmented with a small plus sign.) Then drag the selection to its new location while you continue to holddown the Ctrl key. The original selection remains behind, and Excel makes a new copy 
+
+Page 124
+Excel provides additional options for copying to adjacent cells. To use these commands,activate the cell that you’re copying and extend the cell selection to include the cells to ■Home ➪ Editing ➪ Fill ➪ Down (or Ctrl+D) copies the cell to the selected range ■Home ➪ Editing ➪ Fill ➪ Right (or Ctrl+R) copies the cell to the selected range to ■Home ➪ Editing ➪ Fill ➪ Up copies the cell to the selected range above. ■Home ➪ Editing ➪ Fill ➪ Left copies the cell to the selected range to the left.which you’re copying. Then issue the appropriate command from the following list for one- below. the right.step copying: 
+
+Page 125
+You can use the copy procedures described previously to copy a cell or range to anotherworksheet, even if the worksheet is in a different workbook. You must, of course, activate Excel offers a quicker way to copy a cell or range and paste it to other worksheets in thesame workbook: 1. Select the range to copy. 2. Press Ctrl and click the sheet tabs for the worksheets to which you want to 3. Choose Home ➪ Editing ➪ Fill ➪ Across Worksheets. A dialog box appears to ask 4. Make your choice and then click OK. Excel copies the selected range to thecopy the information. Excel displays Group in the workbook’s title bar. you what you want to copy (All, Contents, or Formats). selected worksheets; the new copy occupies the same cells in the selected work-sheets as the original occupies in the initial worksheet. 
+
+Page 128
+The paste options are as follows: For yet another pasting method, choose Home ➪ Clipboard ➪ Paste ➪ Paste Special todisplay the Paste Special dialog box (see Figure 4.11). You can also right-click and choosePaste Special from the shortcut menu to display this dialog box. This dialog box has several 
+
+Page 131
+Excel allows you to assign descriptive names to cells and ranges. 
+
+Page 132
+■Names can’t contain spaces. You may want to use an underscore character to simu- ■You can use any combination of letters and numbers, but the name must begin ■Symbols—except for underscores, backslashes, and periods—aren’t allowed. ■Names are limited to 255 characters, but it’s a good practice to keep names as shortlate a space (such as Annual_Total). with a letter, underscore, or backslash. A name can’t begin with a number (such as as possible yet still meaningful.3rdQuarter) or look like a cell address (such as QTR3). If these are desirable names,though, you can precede the name with an underscore or a backslash, for example,_3rd Quarter and \QTR3. The fastest way to create a name is to use the Name box (to the left of the Formula bar).Select the cell or range to name, click the Name box, and type the name. Press Enter to cre-ate the name. (You must press Enter to actually record the name; if you type a name and For more control over naming cells and ranges, use the New Name dialog box. Start byselecting the cell or range that you want to name. Then choose Formulas ➪ Deﬁned Names 
+
+Page 133
+➪ Deﬁne Name. To create names by using adjacent text, start by selecting the name text and the cells thatyou want to name. (These items can be individual cells or ranges of cells.) The names mustbe adjacent to the cells that you’re naming. (A multiple selection is allowed.) Then chooseFormulas ➪ Deﬁned Names ➪ Create from Selection. Excel displays the Create Names from 
+
+Page 136
+To add a comment to a cell, select the cell and use any of these actions:■Choose Review ➪ Comments ➪ New Comment. ■Right-click the cell and choose Insert Comment from the shortcut menu. ■Press Shift+F2. You can force a comment to be displayed even when the mouse is not hovering over thecell. Right-click the cell and choose Show/Hide Comments. Although this command refers right-click the cell and choose Hide Comment. 
+
+Page 137
+If you don’t like the default look of cell comments, you can make some changes. Right-clickthe cell and choose Edit Comment. Select the text in the comment and use the commands 
+
+Page 139
+To read all comments in a workbook, choose Review ➪ Comments ➪ Next. Keep clickingNext to cycle through all of the comments in a workbook. Choose Review ➪ Comments ➪Previous to view the comments in reverse order. To toggle the display of an individual comment, select its cell and then choose Review ➪If you want all cell comments to be visible (regardless of the location of the mouse), choose Comments ➪ Show/Hide Comment.Review ➪ Comments ➪ Show All Comments. This command is a toggle; select it again tohide all cell comments. To edit the text in a comment, activate the cell, right-click, and then choose Edit Commentfrom the shortcut menu. Or select the cell and press Shift+F2. After you make yourchanges, click any cell. 
+
+Page 140
+To delete a cell comment, activate the cell that contains the comment and then chooseReview ➪ Comments ➪ Delete. Or right-click and then choose Delete Comment from theshortcut menu. A table is a specially designated area of a worksheet. The purpose of a table is to enforce some structure around your data. 
+
+Page 141
+The header row is generally colored differently than the other rows. The names in theheader identify the columns. If you have a formula that refers to a table, the header will determine how the column is referred to. The header also contains Filter Buttons. You can use them to sort and ﬁlter the table’s data. The data body is one or more rows of data. By default, the rows are banded, that is, format-ted with alternating colors. When you add new data to the table, the formatting of theexisting data is applied to the new data. For example, if a column is formatted as Text, that column in the new row will also be formatted as Text. The same is true for conditionalformatting. It’s not just formatting that applies to the new data. If a column contains a formula, thatformula is automatically inserted into the new row. Data validation will also be transferred. One of the best features of tables is that as the data body expands, anything that refersto the table will expand automatically. If you were to base a pivot table or a chart on your 
+
+Page 142
+At the bottom right of the last cell in the table is the resizing handle. You can drag thishandle to change the size of the table. Increasing the length of the table adds blank rows,copying down formatting, formulas, and data validation. Increasing the width of the tableadds new columns with generic names like Column1, Column2, and so forth. You can change Decreasing the size of the table simply changes what data is considered part of the table.It does not delete any data, formatting, formulas, or data validation. If you want to change Most of the time, you’ll create a table from an existing range of data. However, Excel alsoallows you to create a table from an empty range so that you can ﬁll in the data later. The 1. Make sure the range doesn’t contain any completely blank rows or columns; 2. Select any cell within the range. 3. Choose Insert ➪ Tables ➪ Table (or press Ctrl+T). Excel responds with its Createotherwise, Excel will not guess the table range correctly. Table dialog box, shown in Figure 4.20. Excel tries to guess the range, as well aswhether the table has a header row. Most of the time, it guesses correctly. If not,make your corrections before you click OK. To create a table from an empty range, select the range and choose Insert ➪ Tables ➪ Table.Excel creates the table, adds generic column headers (such as Column1 and Column2), andapplies table formatting to the range. Almost always, you’ll want to replace the generic col- 
+
+Page 144
+Sorting a table rearranges the rows based on the contents of a particular column. 
+
+Page 145
+You can sort on any number of columns. The trick is to sort the least signiﬁcant columnﬁrst and then proceed until the most signiﬁcant column is sorted last. For example, in 
+
+Page 146
+Another way of performing a multiple-column sort is to use the Sort dialog box (chooseHome ➪ Editing ➪ Sort & Filter ➪ Custom Sort). Or right-click any cell in the table andchoose Sort ➪ Custom Sort from the shortcut menu. Filtering a table refers to displaying only the rows that meet certain conditions. (The otherrows are hidden.) 
+
+Page 147
+For additional ﬁltering options, select Text Filters (or Number Filters, if the column con-tains values). The options are fairly self-explanatory, and you have a great deal of ﬂex- 
+
+Page 148
+When you copy data from a ﬁltered table, only the visible data is copied. the pasted data is not a table—it’s just a normal range. To remove ﬁltering for a column, click the drop-down in the row header and select ClearFilter. If you’ve ﬁltered using multiple columns, it may be faster to remove all ﬁlters bychoosing Home ➪ Editing ➪ Sort & Filter ➪ Clear. To add one or more slicers, activate any cell in the table and choose Table Tools Design ➪Tools ➪ Insert Slicer. Excel responds with a dialog box that displays each header in the Another way to ﬁlter a table is to use one or more slicers. 
+
+Page 149
+Place a check mark next to the ﬁeld(s) that you want to ﬁlter. To use a slicer, just click one of the buttons. 
+
+Page 150
+If your table has more than one slicer, it’s ﬁltered by the selected buttons in each slicer. If your table has more than one slicer, it’s ﬁltered by the selected buttons in each slicer. Toremove ﬁltering for a particular slicer, click the Clear Filter icon in the upper-right cornerof the slicer. 
+
+Page 151
+Select any cell in the table and choose Table Tools Design ➪ Table Styles. right, the Table Styles group expands, as shown in Figure 4.28. The styles are grouped intothree categories: Light, Medium, and Dark. Notice that you get a “live” preview as you move 
+
+Page 152
+For a different set of color choices, choose Page Layout ➪ Themes ➪ Themes to select a dif-ferent document theme. You can change some elements of the style by using the check box controls in the TableTools Design ➪ Table Style Options group. These controls determine whether various ele- If you’d like to create a custom table style, choose Table Tools Design ➪ Table Styles ➪ NewTable Style to display the New Table Style dialog box shown in Figure 4.29. You can custom- Custom table styles are available only in the workbook in which they were created.However, if you copy a table that uses a custom style to a different workbook, the customstyle will be available in the other workbook.and click OK. Your custom table style will appear in the Table Styles gallery in the Customcategory. 
+
+Page 159
+These shortcut keys act as a toggle. For example, you can turn bold on and off by repeat-■Ctrl+B: Bold ■Ctrl+I: Italic ■Ctrl+U: Underline ■Ctrl+5: Strikethrough edly pressing Ctrl+B. 
+
+Page 162
+Top Aligns the cell contents to the top of the cell. This is also available on the Ribbon. Center Centers the cell contents vertically in the cell. This is also available on the Ribbon. Bottom Aligns the cell contents to the bottom of the cell. This is also available on the Justify Justiﬁes the text vertically in the cell; this option is applicable only if the cell Distributed Distributes the text evenly vertically in the cell.Ribbon. This option is the default vertical alignment. is formatted as wrapped text and uses more than one line. This setting can be used toincrease the line spacing. The Wrap Text option displays the text on multiple lines in the cell, if necessary. The Shrink to Fit option reduces the size of the text so that it ﬁts into the cell withoutspilling over to the next cell. The times that this command is useful seem to be rare. 
+
+Page 163
+You can merge any number of cells occupying any number of rows and columns. In fact, youcan merge all 17 billion cells in a worksheet into a single cell—although there probably isn’t a The range that you intend to merge should be empty, except for the upper-left cell. other cells that you intend to merge are not empty, Excel displays a warning. If you continue, allof the data (except in the upper-left cell) will be deleted. The Home ➪ Alignment ➪ Merge & Center control contains a drop-down list with these Merge Across When a multirow range is selected, this command creates multiple merged Merge Cells Merges the selected cells without applying the Center attribute. Unmerge Cells Unmerges the selected cells.additional options: cells—one for each row. 
+
+Page 164
+From the Home ➪ Alignment ➪ Orientation drop-down list, you can apply the most com-mon text angles. For more control, use the Alignment tab of the Format Cells dialog box. 
+
+Page 168
+You can apply conditional formatting to a cell so that the cell looks different depending onits contents. Conditional formatting is a useful tool for visualizing numeric data. In some To apply a conditional formatting rule to a cell or range, select the cells and then use one ofthe commands from the Home ➪ Styles ➪ Conditional Formatting drop-down list to specifya rule. The choices are as follows: Highlight Cells Rules Examples include highlighting cells that are greater than a par- Top/Bottom Rules Examples include highlighting the top ten items, the items in the bot- Data Bars Applies graphic bars directly in the cells, proportional to the cell’s value. Color Scales Applies background color, proportional to the cell’s value. Icon Sets Displays icons directly in the cells. The icons depend on the cell’s value. New Rule Enables you to specify other conditional formatting rules, including rules based Clear Rules Deletes all the conditional formatting rules from the selected cells. Manage Rules Displays the Conditional Formatting Rules Manager dialog box in whichticular value, are between two values, contain a speciﬁc text string, contain a date, or are tom 20 percent, and the items that are above average. on a logical formula. you create new conditional formatting rules, edit rules, or delete rules.duplicated. The data bars conditional format displays horizontal bars directly in the cell. The length ofthe bar is based on the value of the cell relative to the other values in the range. 
+
+Page 169
+Excel provides quick access to 12 data bar styles via Home ➪ Styles ➪ ConditionalFormatting ➪ Data Bars. For additional choices, click the More Rules option, which 
+
+Page 170
+The color scale conditional formatting option varies the background color of a cell based onthe cell’s value relative to other cells in the range. 
+
+Page 171
+Yet another conditional formatting option is to display an icon in the cell. The icon displayeddepends on the value of the cell. apply to the selected range by choosing Home ➪ Styles ➪ Conditional Formatting ➪ ColorScales. 
+
+Page 172
+To assign an icon set to a range, select the cells and choose Home ➪ Styles ➪ ConditionalFormatting ➪ Icon Sets. Excel provides 20 icon sets from which you may choose. The num- 
+
+Page 174
+The graphical conditional formats are generally used to show a cell in relation to other,nearby cells. Formula-based rules generally apply to one cell independently. The same rulemay apply to many cells, but each cell is considered on its own. Ribbon control are commonly used shortcuts for formula-based rules. If you choose Home➪ Styles ➪ Conditional Formatting ➪ New Rule, Excel displays the New Formatting Rule The last entry in the New Formatting Rule dialog box is Use a Formula to Determine Which Cellsto Format. This is the entry you choose if none of the other shortcuts does what you want. It relative reference A1 
+
+Page 175
+absolute reference; 
+
+Page 177
+mixed reference 
+
+Page 179
+You can specify as many rules as you like by clicking the New Rule button. Cells can evenThe Conditional Formatting Rules Manager dialog box is useful for checking, editing, delet-ing, and adding conditional formats. First select any cell in the range that contains condi-tional formatting. Then choose Home ➪ Styles ➪ Conditional Formatting ➪ Manage Rules. information is stored with a cell. As a result, when you copy a cell that contains conditionalformatting, you also copy the conditional formatting. To remove only conditional formatting (and leave the other formatting intact), chooseWhen you press Delete to delete the contents of a cell, you don’t delete the conditional Home ➪ Styles ➪ Conditional Formatting ➪ Clear Rules and choose one of the availableformatting for the cell (if any). To remove all conditional formats (as well as all other cell options.formatting), select the cell and then choose Home ➪ Editing ➪ Clear ➪ Clear Formats. Or,choose Home ➪ Editing ➪ Clear ➪ Clear All to delete the cell contents and the conditionalformatting. 1. Choose Home ➪ Editing ➪ Find & Select ➪ Go To Special. The Go To Special dialog 2. In the Go To Special dialog box, select the Conditional Formats option. 3. To select all cells on the worksheet containing conditional formatting, select the 4. Click OK. Excel selects the cells for you.box appears. All option; to select only the cells that contain the same conditional formatting asthe active cell, select the Same option. 
+
+Page 242
+You use formulas in your Excel worksheets to calculate results from the data stored in the work-sheet. When data changes, the formulas calculate updated results with no extra effort on your part. A formula consists of special code entered into a cell. It performs a calculation of some type andreturns a result that is displayed in the cell. Formulas use a variety of operators and worksheet A formula always begins with an equal sign and can contain any of these elements:■Mathematical operators, such as + (for addition) and * (for multiplication) ■Cell references (including named cells and ranges) ■Values or text ■Worksheet functions (such as SUM and AVERAGE) 
+
+Page 243
+After you enter a formula, the cell displays the calculated result of the formula. The for-mula itself appears in the Formula bar when you select the cell, however. Excel formulas support a variety of operators. Operators are symbols that indicate whatmathematical (or logical) operation you want the formula to perform. Table 9.1 lists the Operators Used in Formulas 
+
+Page 244
+Operator Precedence in Excel Formulas 
+
+Page 245
+You can use parentheses to override Excel’s built-in order of precedence. Expressions withinparentheses are always evaluated ﬁrst. For example, the following formula uses parentheses It’s good practice to use parentheses even when they aren’t strictly necessary. Doing so helps to clarify what theformula is intended to do. For example, the following formula makes it perfectly clear that B3 should be multiplied 
+
+Page 246
+Every left parenthesis, of course, must have a matching right parenthesis. many levels of nested parentheses, keeping them straight can sometimes be difﬁcult. If theparentheses don’t match, Excel displays a message explaining the problem, and it won’t letyou enter the formula. In some cases, if your formula contains mismatched parentheses, Excel may propose a correction to your formula. 
+
+Page 248
+In the preceding examples, you may have noticed that all of the functions used parenthe-ses. The information inside the parentheses is the list of arguments. Functions vary in the way they use arguments. Depending on what it has to do, a functionmay use one of the following: ■No arguments ■One argument ■A ﬁxed number of arguments ■An indeterminate number of arguments ■Optional arguments If a function uses more than one argument, separate each argument with a comma. ﬂexible when it comes to function arguments, however. An argument can consist of a cellreference, literal values, literal text strings, expressions, and even other functions. Here Cell reference: =SUM(A1:A24)Literal value: =SQRT(121)Literal text string: =PROPER(“john f. smith”)Expression: =SQRT(183+12)Other functions: =SQRT(SUM(A1:A24)) 
+
+Page 251
+you type an equal sign (=) followed by the formula. Even though you can enter formulas by typing in the entire formula, Excel providesanother method of entering formulas that is generally easier, faster, and less error prone. 1. Select cell A3. 2. Type an equal sign (=) to begin the formula. Notice that Excel displays Enter in 3. Press the up arrow twice. As you press this key, Excel displays a dashed border 4. Type a plus sign (+). A solid color border replaces the dashed border of A1, and 5. Press the up arrow again. The dashed border encompasses cell A2 and adds that 6. Press Enter to complete the formula.the status bar (lower left of your screen). around cell A1, and the cell reference appears in cell A3 and in the Formula bar. In Enter reappears in the status bar. cell address to the formula.addition, Excel displays Point in the status bar. ■Select the name from the drop-down list. To use this method, you must know at ■Press F3. The Paste Name dialog box appears. Select the name from the list and ■Click the Use in Formula drop-down on the Formulas tab (Deﬁned Names group).least the ﬁrst character of the name. When you’re entering the formula, type the then click OK (or just double-click the name). Excel enters the name into your for- This command is available while you are in edit mode, and it allows you to selectThree ways to insert a name into a formula are available: ﬁrst character and then select the name from the drop-down list. mula. If no names are deﬁned, pressing F3 has no effect. from the available range names. 
+
+Page 265
+Excel Error Values 
+
